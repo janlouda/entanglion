@@ -52,18 +52,18 @@ roll the Entanglion die (8-sided). The player with the higher number goes first.
 
 <img src="../images/setup.png" width="100%">
 
-# Materials
+# Součásti hry
 
-**Boards**
-- 1 game board
-- 2 spaceship boards
+**Hrací desky**
+- 1 hlavní hrací deska
+- 2 hrací desky kosmické lodě
 <img src="../images/board.png" width="40%">
 
-**Cards**
+**Hrací karty**
 - 24 engine cards (8 H, 7 CNOT, 5 X, 3 SWAP, 1 PROBE)
 <img src="../images/engine_cards.png" width="40%">
 
-- 9 event cards
+- 9 karet kvantových událostí
 <img src="../images/events.png" width="100%">
 
 **Pieces**
