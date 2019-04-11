@@ -15,6 +15,8 @@ quantum component = součást kvantového počítače
 
 quantum computing = kvantový počítač/kvantové počítače
 
+quantum engines = kvantové motory
+
 quantum gates = kvantové operace
 
 qubit = qubit (nepřekládal bych jako kvantový bit, používá se v české literatuře i qubit)
