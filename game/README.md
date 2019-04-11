@@ -57,7 +57,7 @@ roll the Entanglion die (8-sided). The player with the higher number goes first.
 
 **Hrací desky**
 - 1 hlavní hrací deska
-- 2 hrací desky kosmické lodě
+- 2 hrací desky kosmických lodí
 <img src="../images/board.png" width="40%">
 
 **Hrací karty**
