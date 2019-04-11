@@ -1,6 +1,8 @@
 # Slovníček pojmů pro tým překladatelů
 (nové pojmy se snažte přidávat abecedně)
 
+bit flip error = bit flip error (bez překladu)
+
 Centarious = Centarious (nepřekládat)
 
 detection rate = riziko odhalení
