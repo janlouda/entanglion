@@ -4,7 +4,7 @@
 
 **2 HRÁČI | VĚK 14+ | ~45 MINUT**
 
-Entanglion awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer.Entaglion čeká na vaše schopnosti navigace a strategického plánování
+Entanglion awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer.Entaglion prověří vaše schopnosti navigace a strategického plánování. Vaším úkolem je prozkoumat novou galaxii a znovu postavit starodávný kvantový počítač.
 
 http://ibm.biz/entanglion
 
