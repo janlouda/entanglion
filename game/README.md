@@ -14,7 +14,7 @@ http://ibm.biz/entanglion
 
 <img src="../images/bg.png" width="100%">
 
-Blahopřejeme, stal jste se novým kapitánem kosmické lodi! Nyní máte příležitost ???.
+Blahopřejeme, stal jste se novým kapitánem kosmické dopravní lodi! Nyní máte konečně příležitost loď zdokonalit.
 
 Už léta vás fascinují pověsti o starodávné kvantové počítačové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohla by vaše loď během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu jen jeden problém: autoři původního kvantového počítače se obávali, že měl příliš velkou moc, a tak ho rozebrali a jeho součásti schovali na různých planetách příšně střežené galaxie Entaglion.
 
