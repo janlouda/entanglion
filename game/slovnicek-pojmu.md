@@ -23,5 +23,6 @@ superposition = superpozice
 
 wave function collapse = kolaps vlnové funkce
 
+test
 
-
+firked
