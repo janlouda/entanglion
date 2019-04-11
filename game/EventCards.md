@@ -1,6 +1,6 @@
 # Event Cards
 
-- **Bennett**. Keep this card in your hand until you wish to play it. When you play this card, give one quantum component to or receive one quantum component from the other spaceship. _With a little work, quantum state can be deconstructed in one place and reconstructed in another._
+- **Bennett**. Kartu si ponechte, můžete jí hrát v některém z následujících tahů. Keep this card in your hand until you wish to play it. When you play this card, give one quantum component to or receive one quantum component from the other spaceship. _With a little work, quantum state can be deconstructed in one place and reconstructed in another._
 - **Bit Flip Error**. Reset the detection rate to the first "4". _You notice that your quantum engines are glowing green and blue. A readout on your console shows they have recalibrated themselves._
 - **Heisenberg**. Keep this card in your hand until you wish to play it. When you play this card, roll the Entanglion die. Proceeding in clockwise order from OMEGA ZERO, count the indicated number of planets. Move both ships to the selected planet, ignoring orbital defenses. _A tall man wearing a pork pie hat bumps into you in the spaceport and hands you a small blue card. "Try this, you'll love it!" he says before running off._
 - **Quantum Shuffle**. Reshuffle the quantum event card stack as performed in Game Setup and draw another event card. _Sometimes, things that should happen, don't._
