@@ -4,7 +4,7 @@
 
 **2 HRÁČI | VĚK 14+ | ~45 MINUT**
 
-Entanglion awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer.Entaglion prověří vaše schopnosti navigace a strategického plánování. Vaším úkolem je prozkoumat novou galaxii a znovu postavit starodávný kvantový počítač.
+Entaglion prověří vaše schopnosti navigace a strategického plánování. Vaším úkolem je prozkoumat novou galaxii a znovu postavit starodávný kvantový počítač.
 
 http://ibm.biz/entanglion
 
@@ -14,10 +14,11 @@ http://ibm.biz/entanglion
 
 <img src="../images/bg.png" width="100%">
 
-Blahopřejeme, stal jste se novým kapitánem kosmické lodi! Je čas na Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it's time to make some upgrades.
+Blahopřejeme, stal jste se novým kapitánem kosmické lodi! Nyní máte příležitost ???.
 
-For years, you've been obsessed with rumors of an ancient quantum computing technology that could revolutionize galactic cargo transport. If the rumors were true, it would allow your ships to calculate hyperspace paths in mere seconds! There's only one problem: the ancients dismantled their quantum computer out of fears that it was too powerful, and they left the components scattered across planets in the heavily-guarded Entanglion galaxy.
+Už léta vás fascinují pověsti o starodávné kvantové počítačové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohla by vaše loď během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu jen jeden problém: autoři původního kvantového počítače se obávali, že měl příliš velkou moc, a tak ho rozebrali a jeho součásti schovali na různých planetách příšně střežené galaxie Entaglion.
 
+Pokud chcete obnovit tuto výjimečnou technologii, musíte navigovat svoji loď po planetách Entaglionu a vyhnout se jejich obraně. Dobrá zpráva je, že vám původní kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který tyto motory ovládá, se 
 If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
 
 Think you're up for the challenge?
