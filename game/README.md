@@ -1,10 +1,10 @@
-# Entanglion Rule Book
+# Pravidla hry Entanglion
 
-> A game by IBM Research
+> z dílny IBM Research
 
-**2 PLAYERS | AGES 14 & UP | ~45 MINUTES**
+**2 HRÁČI | VĚK 14+ | ~45 MINUT**
 
-Entanglion awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer.
+Entanglion awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer.Entaglion čeká na vaše schopnosti navigace a strategického plánování
 
 http://ibm.biz/entanglion
 
