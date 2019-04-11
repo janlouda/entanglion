@@ -11,11 +11,15 @@ entanglement = (kvantové) provázání
 
 Entanglion = Entanglion (nepřekládat)
 
+event cards = karty kvantových událostí
+
 quantum component = součást kvantového počítače
 
 quantum computing = kvantový počítač/kvantové počítače
 
 quantum engines = kvantové motory
+
+quantum event cards = karty kvantových událostí
 
 quantum gates = kvantové operace
 
