@@ -1,4 +1,4 @@
-#Slovníček pojmů pro tým překladatelů
+# Slovníček pojmů pro tým překladatelů
 (nové pojmy se snažte přidávat abecedně)
 
 Centarious = Centarious (nepřekládat)
