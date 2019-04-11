@@ -1,4 +1,4 @@
-# Event Cards
+# Karty kvantových událostí
 
 - **Bennett**. Kartu si ponechte, můžete ji zahrát v některém z následujících tahů. Zahrajete-li kartu, můžete teleportovat jednu ze spoluhráčových součástí kvantového počítače na svou loď nebo jednu svoji součást teleportovat na spoluhráčovu loď. _S malým úsilím může být kvantový stav teleportován - tj. přenesen z jednoho místa na druhé._
 - **Bit Flip Error**. Nastavte riziko odhalení na první ze čtyřek. _You notice that your quantum engines are glowing green and blue. A readout on your console shows they have recalibrated themselves._
