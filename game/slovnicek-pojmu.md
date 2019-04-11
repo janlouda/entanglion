@@ -11,6 +11,8 @@ entanglement = (kvantové) provázání
 
 Entanglion = Entanglion (nepřekládat)
 
+quantum component = součást kvantového počítače
+
 quantum computing = kvantový počítač/kvantové počítače
 
 quantum gates = kvantové operace
