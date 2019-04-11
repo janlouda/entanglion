@@ -8,13 +8,13 @@ Entanglion awaits your space navigation skills and strategic planning to explore
 
 http://ibm.biz/entanglion
 
-> 🤔 Confused about a rule? Please take a look at the [errata](Errata.md) for rule clarifications and game updates.
+> 🤔 Nerozumíte pravidlům? Navštivte [errata](Errata.md), kde najdete podrobné vysvětlení pravidel a také aktualizace hry.
 
-# Welcome to the quantum universe, Captain!
+# Vítejte v kvantovém světě, kapitáne!
 
 <img src="../images/bg.png" width="100%">
 
-Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it's time to make some upgrades.
+Blahopřejeme, stal jste se novým kapitánem kosmické lodi! Je čas na Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it's time to make some upgrades.
 
 For years, you've been obsessed with rumors of an ancient quantum computing technology that could revolutionize galactic cargo transport. If the rumors were true, it would allow your ships to calculate hyperspace paths in mere seconds! There's only one problem: the ancients dismantled their quantum computer out of fears that it was too powerful, and they left the components scattered across planets in the heavily-guarded Entanglion galaxy.
 
