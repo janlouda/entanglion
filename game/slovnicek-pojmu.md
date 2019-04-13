@@ -15,6 +15,10 @@ Entanglion = Entanglion (nepřekládat)
 
 event cards = karty kvantových událostí
 
+ground defences = pozemní obrana
+
+orbital defences = orbitální obrana
+
 quantum component = součást kvantového počítače
 
 quantum computing = kvantový počítač/kvantové počítače
