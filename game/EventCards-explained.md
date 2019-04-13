@@ -1,4 +1,5 @@
 ## Dodatečné vysvětlení k vybraným kartám kvantových událostí
+(rozšíření odtstavce Event cards v manuálu)
 
 **Bennett**
 
