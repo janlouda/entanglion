@@ -1,6 +1,6 @@
 **Bennett**
 
-Charles Henry Bennett (narozený 1943) je fyzik a teoretický informatik, který pracoval ve výzkumných laboratoří IBM. Jeho práce se zaobírala fyzickým základem informací a aplikací principů kvantové fyziky na problematiku výměny informací. Pomohl svým výzkumem objasnit vzájemný vztah mezi fyzikou a informacemi, zejména v oblasti kvantových počítačů. S Gillesem Brassardem objevil koncept kvantové kryptografie a je jedním ze zakladatelů moderní teorie kvantových informací (viz Bennettovy čtyři zákony kvantových informací).
+Charles Henry Bennett (narozený 1943) je fyzik a teoretický informatik, který pracoval ve výzkumných laboratoří IBM. Pomohl svým výzkumem objasnit vzájemný vztah mezi fyzikou a informacemi, zejména v oblasti kvantových počítačů. S Gillesem Brassardem objevil koncept kvantové kryptografie a je jedním ze zakladatelů moderní teorie kvantových informací (viz Bennettovy čtyři zákony kvantových informací). V roce 1993 objevili Bennett a Brassard ve spolupráci s ostatními „kvantovou teleportaci“ - přenos stavu mezi částicemi na velkou vzdálenost. Nejedná se o přenos částice jako takové, jak by se z názvu mohlo zdát, ale skutečně jen o přenos kvantového stavu (tj. skupinu pozorovatelných veličin, jejichž prostřednictvím jsou vlastnosti daného systému nebo částice plně určeny). Částice, mezi kterými dochází k přenosu, musí být kvantově provázané.
 
 **Heisenberg**
 
