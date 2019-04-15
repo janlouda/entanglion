@@ -18,13 +18,12 @@ Blahopřejeme, stal jste se novým kapitánem kosmické dopravní lodi! Nyní m�
 
 Už léta vás fascinují pověsti o starodávné kvantové počítačové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohla by vaše loď během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu jen jeden problém: autoři původního kvantového počítače se obávali, že měl příliš velkou moc, a tak ho rozebrali a jeho součásti schovali na různých planetách příšně střežené galaxie Entaglion.
 
-Pokud chcete obnovit tuto výjimečnou technologii, musíte navigovat svoji loď po planetách Entaglionu a vyhnout se jejich obraně. Dobrá zpráva je, že vám původní kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který tyto motory ovládá, se 
-If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
+Pokud chcete obnovit tuto výjimečnou technologii, musíte navigovat svoji loď po planetách Entaglionu a vyhnout se jejich obraně. Dobrá zpráva je, že vám původní kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který je ovládá, můžou být tyto motory trochu... nepředvídatelné.
 
-Think you're up for the challenge?
+Jdete do toho?
 
-# Goal
-Entanglion is a cooperative board game designed for two players. The goal is to reconstruct a quantum computer developed by an ancient race. Work together with your teammate to navigate the three galaxies of the quantum universe – Centarious, Superious, and Entanglion – in a quest to collect eight quantum computer components. Be careful to avoid detection by the planetary defense mechanisms guarding the components!
+# Cíl hry
+Entanglion je desková hra pro dva hráče, kteří spolu musejí spolupracovat. Cílem hry je znovu postavit kvantový počítač z davné doby. Společně s vaším spoluhráčem musíte probádat tři galaxie kvantového prostoru - Centarius, Superious a Entaglion - a získat všech osm součástí kvantového počítače. Nesmí vás ale odhalit obranné mechanismy, které mají za úkol kvantové součásti střežit!
 
 # Game concepts
 Entanglion was designed to expose players to several fundamental concepts in quantum computing: 
