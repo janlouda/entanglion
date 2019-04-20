@@ -36,7 +36,7 @@ Entaglion byl navržen tak, aby hráčům představil a přiblížil základní 
 
 Entaglion dále hráče seznamuje s různými hardwarovými a softwarovými součástmi, které se podílí na fungování reálného kvantového počítače.
 
-Další vazby Entaglionu k reálným kvantovým počítačům jsou diskutovány v závěrečné části této knihy.
+Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutovány v závěrečné části této knihy.
 
 # Příprava hry
 1. **Rozložte herní desku i desky obou vesmírných lodí**. Herní desku umístěte v dosahu obou hráčů a každému z hráčů přidělte jednu desku vesmírné lodi.
@@ -58,52 +58,52 @@ Další vazby Entaglionu k reálným kvantovým počítačům jsou diskutovány 
 <img src="../images/board.png" width="40%">
 
 **Hrací karty**
-- 24 engine cards (8 H, 7 CNOT, 5 X, 3 SWAP, 1 PROBE)
+- 24 karet pro pohyb (8 H, 7 CNOT, 5 X, 3 SWAP, 1 SONDA)
 <img src="../images/engine_cards.png" width="40%">
 
 - 9 karet kvantových událostí
 <img src="../images/events.png" width="100%">
 
-**Pieces**
-- 1 detection rate token
-- 8 quantum components
+**Herní dílky**
+- 1 žeton rizika odhalení
+- 8 kvantových součástek
 <img src="../images/quantum_components.png" width="100%">
 
-- 1 Centarious die (purple binary d6)
-- 1 Entanglion die (yellow d8)
-- 2 spaceship tokens
+- 1 Centarious kostka (fialová binární šestistěnná kostka)
+- 1 Entanglion kostka (žlutá osmistěnná kostka)
+- 2 žetony vesmírných lodí
 <img src="../images/spaceship.png" width="20%">
 
-**Rule Book**
+**Kniha s pravidly hry**
 
-# Engine cards
+# Karty pro pohyb
 <img src="../images/engine_cards.png" width="60%">
 
-Engine cards are used to navigate your ships around the quantum universe. Navigation paths on the game board are labeled with the card(s) needed to traverse them (e.g. “X/CNOT” means either X or CNOT can be used to traverse that path). In some cases, only one spaceship may traverse a path. Engine cards may be played with no effect when no transition is shown on the board.
+Vesmírné lodě se po kvantovém universu pohybují pomocí karet pro pohyb představujících kvantové operace. Každá trasa mezi dvěma body na herním plánu je zřetelně označena požadovanou kvantovou operací (např. "X/CNOT" znamená, že loď musí k přesunu použít buď kartu s operací X nebo CNOT). Cestu po některých trasách může iniciovat jen jedna z lodí. Hráči mohou zahrát kartu pro pohyb i v případě, že tato nebude mít žádný efekt (tj. i v případě, že z bodu, kde se jejich loď nachází, nevede pro danou operaci žádná trasa).
 
-**X**. X is used to navigate between <span style="color: purple"> ZERO </span> and <span style="color: purple"> ONE </span> and within the Entanglion galaxy.
+**X**. X slouží k přesunu mezi pozicemi <span style="color: purple"> NULA </span> a <span style="color: purple"> JEDNA </span> a dále v rámci galaxie Entaglion.
 
-**H**. H is used to travel between Centarious and Superious and within the Entanglion galaxy.
+**H**. H slouží k přesunu mezi galaxiemi Centarious a Superious a dále v rámci galaxie Entaglion.
 
-**SWAP**. Outside of Entanglion, SWAP exchanges the positions of the two spaceships. Inside Entanglion, SWAP only transitions the spaceships between <span style="color: #facd4d"> OMEGA ZERO </span> and <span style="color: #facd4d"> OMEGA THREE </span>.
+**SWAP**. Mimo galaxii Entaglion slouží operace SWAP k okamžitému prohození pozic obou vesmírných lodí. Uvnitř galaxie Entaglion se touto operací lodě přesouvají mezi pozicemi <span style="color: #facd4d"> OMEGA NULA </span> a <span style="color: #facd4d"> OMEGA TŘI </span>.
 
-**CNOT**. CNOT is used to enter the Entanglion galaxy and navigate within it. It also flips the position of your spaceship in Centarious, but only when the other spaceship is orbiting <span style="color: purple"> ONE </span>.
+**CNOT**. CNOT slouží ke vstupu do galaxie Entaglion a následné navigaci uvnitř. V galaxii Centarious dále prohazuje pozice obou lodí, ale pouze v případě, že se jedna z nich nachází na pozici <span style="color: purple"> JEDNA </span>.
 
-**PROBE**. Whenever PROBE is drawn, your ships have been discovered by an ancient defensive probe! Roll the Entanglion die. If the outcome is less than 4 (after accounting for quantum component effects), increase the detection rate by one. Otherwise, PROBE has no effect. Discard PROBE and draw a replacement engine card.
+**SONDA**. Jakmile je líznuta karta SONDA, vesmírné lodě byly odhaleny prastarým obranným mechanismem. Hráč aktuálně na tahu háže Entaglion kostkou a je-li výsledek menší než 4 (po zohlednění všech efektů jím držených kvantových součástek), zvyšte riziko odhalení o jedna. V opačném případě nemá SONDA žádný efekt. Odložte kartu SONDA na hromádku použitých karet a hráč na tahu si lízne jinou kartu pro pohyb.
 
-> Orient engine cards in the engine control spaces such that the lines on the card line up with the line of your spaceship.
+> Zahrané karty pro pohyb umísťujte na herní plán vždy tak, aby linie na nich odpovídaly lodi, která danou kvantovou operaci provádí.
 
-> When the engine stack becomes depleted, immediately reshuffle the engine cards in the discard pile to replenish the engine stack. Include PROBE in the shuffle, do not place it at the bottom of the stack.
+> Jakmile dolížete balíček karet pro pohyb, zamíchejte všechny již zahrané karty a vytvořte z nich balíček nový (nezapomeňte přimíchat i kartu SONDA - nedávejte ji znovu dospod).
 
-# Turn overview
-Perform _one_ of the following actions on your turn.
+# Herní tah
+Hráč, který je na tahu, musí provést právě jednu z následujících akcí:
 
-1. **Navigate**. Play one engine card in engine control to navigate around the galaxy, and draw a replacement. You may only play engine cards for your own ship.
-2. **Exchange**. Discard one engine card from your hand and draw a replacement..
-3. **Retrieve**. Roll the Entanglion die to attempt to retrieve a quantum component if one is present.
-4. **Event**. Play an event card from your hand (if you possess one).
+1. **Přesun**. Zahrajte kartu pro pohyb a je-li to možné, přesuňte svou loď (v galaxii Entaglion obě lodě) na novou pozici. Ihned si lízněte novou kartu z balíčku. Každý hráč může iniciovat pohyb pouze se svou lodí.
+2. **Výměna**. Odhoďte libovolnou kartu pro pohyb na hromádku zahraných karet a lízněte si kartu jinou.
+3. **Extrakce**. Nachází-li se na vaší pozici kvantová součástka, hoďte Entaglion kostkou a pokuste se ji získat.
+4. **Událost**. Máte-li v ruce kartu kvantové události, můžete ji zahrát.
 
-> Players may not pass their turns, they must perform one of the actions above.
+> Hráči se nemohou vzdát svého tahu, musí vždy provést právě jednu z akcí popsaných výše.
 
 # Entering & exiting Entanglion
 In order to enter Entanglion, one spaceship needs to be in Centarious and the other spaceship needs to be in Superious. Only the spaceship in Centarious can use CNOT to enter Entanglion. The paths into Entanglion are represented with gray lines on the game board.
