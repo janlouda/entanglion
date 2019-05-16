@@ -41,12 +41,12 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 # Příprava hry
 1. **Rozložte herní desku i desky obou vesmírných lodí**. Herní desku umístěte v dosahu obou hráčů a každému z hráčů přidělte jednu desku vesmírné lodi.
 2. **Rozmístěte kvantové součástky**. Zamíchejte všechny kvantové součástky a rozmístěte je náhodně na všechny planety v galaxii Entaglion viditelně popiskem nahoru.
-3. **Zamíchejte balíček karet pro pohyb**. Vyndejte z balíčku karet pro pohyb kartu SONDA a důkladně jej zamíchejte. Kartu SONDA dejte naspod a celý balík následně umístěte lícem dolů do zásobníku karet pro pohyb na herním plánu.
+3. **Zamíchejte balíček akčních karet**. Vyndejte z balíčku akčních karet kartu SONDA a důkladně jej zamíchejte. Kartu SONDA dejte naspod a celý balík následně umístěte lícem dolů do zásobníku akčních karet na herním plánu.
 4. **Připravte balíček kvantových událostí**. Vyndejte z balíčku karet kvantových událostí kartu Kvantové Promíchání a ostatní karty důkladně promíchejte. Do zásobníku karet kvantových události na herním plánu odložte 3 karty událostí lícem dolů. Následně přidejte kartu Kvantové Promíchání a na ni pak zbytek balíčku karet kvantových událostí.
-5. **Nastavte startovní stupeň odhalení**. Umístěte žeton na stupnici odhalení na herním plánu. Pro snadnou hru doporučujeme zvolit riziko odhalení 1 nebo 2, pro větší výzvu a zkušenější hráče doporučujeme riziko odhalení 3 nebo 4. Pozor: Pokud během hry dosáhne riziko odhalení stupně (X), hra končí prohrou.
+5. **Nastavte startovní riziko odhalení**. Umístěte žeton na stupnici odhalení na herním plánu. Pro snadnou hru doporučujeme zvolit riziko odhalení 1 nebo 2, pro větší výzvu a zkušenější hráče doporučujeme riziko odhalení 3 nebo 4. Pozor: Pokud během hry dosáhne riziko odhalení stupně (X), hra končí prohrou.
 6. **Určete začínajícího hráče**. Oba hráči hodí Entaglion kostkou (8 stěnná kostka). Hráč s vyšším číslem začíná hru. (Opakujte hod v případě remízy)
 7. **Určete startovní pozice vesmírných lodí**. Oba hráči postupně od začínajícího hráče hodí Centarious kostkou a dle výsledku na kostce umístí svou loď na herní plán v galaxii Centarious (0 přísluší poli <span style="color: purple"> NULA </span>, 1 přísluší poli <span style="color: purple"> JEDNA </span>). Tento proces simuluje počáteční nastavení kvantového systému.
-8. **Lízněte si karty pro pohyb**. Počínaje prvním hráčem, oba hráči si líznou 3 karty pro pohyb. Tyto karty mohou mít rozloženy před sebou viditelně lícem nahoru.
+8. **Lízněte si akční karty**. Počínaje prvním hráčem, oba hráči si líznou 3 akční karty. Tyto karty mohou mít rozloženy před sebou viditelně lícem nahoru.
 
 <img src="../images/setup.png" width="100%">
 
@@ -58,7 +58,7 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 <img src="../images/board.png" width="40%">
 
 **Hrací karty**
-- 24 karet pro pohyb (8 H, 7 CNOT, 5 X, 3 SWAP, 1 SONDA)
+- 24 akčních karet (8 H, 7 CNOT, 5 X, 3 SWAP, 1 SONDA)
 <img src="../images/engine_cards.png" width="40%">
 
 - 9 karet kvantových událostí
@@ -76,10 +76,10 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 
 **Kniha s pravidly hry**
 
-# Karty pro pohyb
+# Akční karty
 <img src="../images/engine_cards.png" width="60%">
 
-Vesmírné lodě se po kvantovém universu pohybují pomocí karet pro pohyb představujících kvantové operace. Každá trasa mezi dvěma body na herním plánu je zřetelně označena požadovanou kvantovou operací (např. "X/CNOT" znamená, že loď musí k přesunu použít buď kartu s operací X nebo CNOT). Cestu po některých trasách může iniciovat jen jedna z lodí. Hráči mohou zahrát kartu pro pohyb i v případě, že tato nebude mít žádný efekt (tj. i v případě, že z bodu, kde se jejich loď nachází, nevede pro danou operaci žádná trasa).
+Vesmírné lodě se po kvantovém universu pohybují pomocí akčních karet představujících kvantové operace. Každá trasa mezi dvěma body na herním plánu je zřetelně označena požadovanou kvantovou operací (např. "X/CNOT" znamená, že loď musí k přesunu použít buď kartu s operací X nebo CNOT). Cestu po některých trasách může iniciovat jen jedna z lodí. Hráči mohou zahrát akční kartu i v případě, že tato nebude mít žádný efekt (tj. i v případě, že z bodu, kde se jejich loď nachází, nevede pro danou operaci žádná trasa).
 
 **X**. X slouží k přesunu mezi pozicemi <span style="color: purple"> NULA </span> a <span style="color: purple"> JEDNA </span> a dále v rámci galaxie Entaglion.
 
@@ -89,41 +89,41 @@ Vesmírné lodě se po kvantovém universu pohybují pomocí karet pro pohyb př
 
 **CNOT**. CNOT slouží ke vstupu do galaxie Entaglion a následné navigaci uvnitř. V galaxii Centarious dále prohazuje pozice obou lodí, ale pouze v případě, že se jedna z nich nachází na pozici <span style="color: purple"> JEDNA </span>.
 
-**SONDA**. Jakmile je líznuta karta SONDA, vesmírné lodě byly odhaleny prastarým obranným mechanismem. Hráč aktuálně na tahu háže Entaglion kostkou a je-li výsledek menší než 4 (po zohlednění všech efektů jím držených kvantových součástek), zvyšte riziko odhalení o jedna. V opačném případě nemá SONDA žádný efekt. Odložte kartu SONDA na hromádku použitých karet a hráč na tahu si lízne jinou kartu pro pohyb.
+**SONDA**. Jakmile je líznuta karta SONDA, vesmírné lodě byly odhaleny prastarým obranným mechanismem. Hráč aktuálně na tahu háže Entaglion kostkou a je-li výsledek menší než 4 (po zohlednění všech efektů jím držených kvantových součástek), zvyšte riziko odhalení o jedna. V opačném případě nemá SONDA žádný efekt. Odložte kartu SONDA na hromádku použitých karet a hráč na tahu si lízne jinou akční kartu.
 
-> Zahrané karty pro pohyb umísťujte na herní plán vždy tak, aby linie na nich odpovídaly lodi, která danou kvantovou operaci provádí.
+> Zahrané akční karty umísťujte na herní plán vždy tak, aby linie na nich odpovídaly lodi, která danou kvantovou operaci provádí.
 
-> Jakmile dolížete balíček karet pro pohyb, zamíchejte všechny již zahrané karty a vytvořte z nich balíček nový (nezapomeňte přimíchat i kartu SONDA - nedávejte ji znovu dospod).
+> Jakmile dolížete balíček akčních karet, zamíchejte všechny již zahrané karty a vytvořte z nich balíček nový (nezapomeňte přimíchat i kartu SONDA - nedávejte ji znovu dospod).
 
 # Herní tah
 Hráč, který je na tahu, musí provést právě jednu z následujících akcí:
 
-1. **Přesun**. Zahrajte kartu pro pohyb a je-li to možné, přesuňte svou loď (v galaxii Entaglion obě lodě) na novou pozici. Ihned si lízněte novou kartu z balíčku. Každý hráč může iniciovat pohyb pouze se svou lodí.
-2. **Výměna**. Odhoďte libovolnou kartu pro pohyb na hromádku zahraných karet a lízněte si kartu jinou.
+1. **Přesun**. Zahrajte akční kartu a je-li to možné, přesuňte svou loď (v galaxii Entaglion obě lodě) na novou pozici. Ihned si lízněte novou kartu z balíčku. Každý hráč může iniciovat pohyb pouze se svou lodí.
+2. **Výměna**. Odhoďte z ruky libovolnou akční kartu na hromádku zahraných karet a lízněte si kartu jinou.
 3. **Extrakce**. Nachází-li se na vaší pozici kvantová součástka, hoďte Entaglion kostkou a pokuste se ji získat.
 4. **Událost**. Máte-li v ruce kartu kvantové události, můžete ji zahrát.
 
 > Hráči se nemohou vzdát svého tahu, musí vždy provést právě jednu z akcí popsaných výše.
 
-# Entering & exiting Entanglion
-In order to enter Entanglion, one spaceship needs to be in Centarious and the other spaceship needs to be in Superious. Only the spaceship in Centarious can use CNOT to enter Entanglion. The paths into Entanglion are represented with gray lines on the game board.
+# Vstup a opuštění galaxie Entanglion
+Pro vstup do galaxie Entaglion se jedna z lodí musí nacházet v galaxii Centarious a druhá v galaxii Superious. Hráč, jehož loď se nachází v galaxii Centarious, pak může ve svém tahu zahrát akci CNOT, čímž obě lodě vstoupí do galaxie Entaglion. Trasy pro vstup do galaxie Entaglion jsou na herním plánu vyznačeny šedými čarami.
 
-Lead spaceship (playing the CNOT) | Other spaceship | Destination
+Vedoucí loď (hrající akci CNOT) | Druhá loď | Výsledná destinace
 --- | --- | ---
-<span style="color: purple"> ZERO </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PHI PLUS </span>
-<span style="color: purple"> ZERO </span> | <span style="color: green"> MINUS </span> | <span style="color: #facd4d"> PHI MINUS </span>
-<span style="color: purple"> ONE </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PSI PLUS </span>
-<span style="color: purple"> ONE </span> | <span style="color: green"> MINUS </span> | <span style="color: #facd4d"> PSI MINUS </span>
+<span style="color: purple"> NULA </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PHI PLUS </span>
+<span style="color: purple"> NULA </span> | <span style="color: green"> MÍNUS </span> | <span style="color: #facd4d"> PHI MÍNUS </span>
+<span style="color: purple"> JEDNA </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PSI PLUS </span>
+<span style="color: purple"> JEDNA </span> | <span style="color: green"> MÍNUS </span> | <span style="color: #facd4d"> PSI MÍNUS </span>
 
-It is also possible to exit Entanglion using CNOT when both ships are orbiting <span style="color: #facd4d"> PHI PLUS </span>, <span style="color: #facd4d"> PHI MINUS </span>, <span style="color: #facd4d"> PSI PLUS </span>, or <span style="color: #facd4d"> PSI MINUS </span>. The ship that plays the CNOT returns to Centarious and the other ship returns to Superious, on the planets indicated with the gray lines.
+Dobrovolné opuštění galaxie Entaglion probíhá obdobně - nacházejí-li se lodě na některé z následujících pozic: <span style="color: #facd4d"> PHI PLUS </span>, <span style="color: #facd4d"> PHI MÍNUS </span>, <span style="color: #facd4d"> PSI PLUS </span> nebo <span style="color: #facd4d"> PSI MÍNUS </span>, zahráním akce CNOT. Loď hrající CNOT se vrací do galaxie Centarious a druhá loď do galaxie Superious po trase vytyčené šedými čarami.
 
-Example: Rubicon is orbiting <span style="color: purple"> ZERO </span> and Mercurial is orbiting <span style="color: green"> PLUS </span>. When Rubicon plays a CNOT, both ships move to <span style="color: #facd4d"> PHI PLUS </span>.
+Příklad: Loď Rubicon obíhá planetu <span style="color: purple"> NULA </span> a loď Mercurial obíhá planetu <span style="color: green"> PLUS </span>. Jestliže Rubicon zahraje akci CNOT, obě lodě se podle šedých čar přesunou na pozici <span style="color: #facd4d"> PHI PLUS </span>.
 
-> Outside of Entanglion, ships move independently. Inside Entanglion, both ships always move together, irregardless of which player plays an engine card.
+> Mimo galaxii Entaglion se každá loď pohybuje samostatně. Uvnitř galaxie Entaglion se však obě lodě přesouvají společně bez ohledu na to, který hráč akční kartu zahrál.
 
 <img src="../images/entering_entanglion.png" width="40%">
 
-On <span style="color: #facd4d"> PHI PLUS </span>, when Rubicon plays CNOT, Rubicon moves to <span style="color: purple"> ZERO </span> and Mercurial moves to <span style="color: green"> PLUS </span>.
+Na pozici <span style="color: #facd4d"> PHI PLUS </span>, jestliže Rubicon zahraje akci CNOT, Rubicon se přesune na <span style="color: purple"> NULA </span> a Mercurial se přesune na <span style="color: green"> PLUS </span>.
 
 <img src="../images/entering_entanglion2.png" width="40%">
 
