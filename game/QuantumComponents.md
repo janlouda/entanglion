@@ -1,7 +1,7 @@
 # Quantum components
 
 - **Fyzické Qubity**. Pokud vás odhalí orbitální obrana, můžete každou z kosmických lodí umístit na libovolnou planetu v Centariu.
-- **Qubit Interconnect**. At the start of your turn, you may exchange one engine card with the other player if your spaceships are orbiting the same planet. This exchange is not considered an action.
+- **Propojení Qubitů**. Na začátku tahu si můžete se spoluphráčem vyměnit jednu ze svých akčních karet. Obě kosmické lodě musí být na stejné planetě. Tato výměna se nepočítá jako tah hráče. 
 - **Dilution Refrigerator**. The extra mass of the Dilution Refrigerator puts a strain on your ship's engines. The number of engine cards you may keep in your hand is reduced to two. Discard one engine card upon retrieving the Dilution Refrigerator.
 - **Kvantové operace**. When exchanging an engine card, draw two replacement cards, add one to your hand, and discard the other one.
 - **Kvantové progrmování**. When navigating to a planet in Entanglion that does not contain a quantum component, your ships automatically bypass the orbital defenses.
