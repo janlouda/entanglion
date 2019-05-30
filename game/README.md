@@ -4,7 +4,7 @@
 
 **2 HRÁČI | VĚK 14+ | ~45 MINUT**
 
-Entaglion prověří vaše schopnosti navigace a strategického plánování. Vaším úkolem je prozkoumat novou galaxii a znovu postavit starodávný kvantový počítač.
+Entaglion prověří vaše schopnosti navigace a strategického plánování. Vaším úkolem je společně prozkoumat novou galaxii a znovu postavit starodávný kvantový počítač.
 
 http://ibm.biz/entanglion
 
@@ -14,11 +14,11 @@ http://ibm.biz/entanglion
 
 <img src="../images/bg.png" width="100%">
 
-Blahopřejeme, stal jste se novým kapitánem kosmické dopravní lodi! Nyní máte konečně příležitost loď zdokonalit.
+Blahopřejeme, stal jste se novým kapitánem galaktické dopravní společnosti! Nyní máte konečně příležitost vše zdokonalit.
 
 Už léta vás fascinují pověsti o starodávné kvantové počítačové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohla by vaše loď během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu jen jeden problém: autoři původního kvantového počítače se obávali, že měl příliš velkou moc, a tak ho rozebrali a jeho součásti schovali na různých planetách příšně střežené galaxie Entaglion.
 
-Pokud chcete obnovit tuto výjimečnou technologii, musíte navigovat svoji loď po planetách Entaglionu a vyhnout se jejich obraně. Dobrá zpráva je, že vám původní kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který je ovládá, můžou být tyto motory trochu... nepředvídatelné.
+Pokud chcete obnovit tuto výjimečnou technologii, musíte navigovat svoji loď po planetách Entaglionu a vyhnout se jejich obraně. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který je ovládá, můžou být tyto motory trochu... nepředvídatelné.
 
 Jdete do toho?
 
