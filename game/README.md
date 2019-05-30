@@ -40,7 +40,7 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 
 # Příprava hry
 1. **Rozložte herní desku i desky obou vesmírných lodí**. Herní desku umístěte v dosahu obou hráčů a každému z hráčů přidělte jednu desku vesmírné lodi.
-2. **Rozmístěte kvantové součástky**. Zamíchejte všechny kvantové součástky a rozmístěte je náhodně na všechny planety v galaxii Entaglion viditelně popiskem nahoru.
+2. **Rozmístěte součásti kvantového počítače**. Zamíchejte všechny součásti kvantového počítače a rozmístěte je náhodně na všechny planety v galaxii Entaglion viditelně popiskem nahoru.
 3. **Zamíchejte balíček akčních karet**. Vyndejte z balíčku akčních karet kartu SONDA a důkladně jej zamíchejte. Kartu SONDA dejte naspod a celý balík následně umístěte lícem dolů do zásobníku akčních karet na herním plánu.
 4. **Připravte balíček kvantových událostí**. Vyndejte z balíčku karet kvantových událostí kartu Kvantové Promíchání a ostatní karty důkladně promíchejte. Do zásobníku karet kvantových události na herním plánu odložte 3 karty událostí lícem dolů. Následně přidejte kartu Kvantové Promíchání a na ni pak zbytek balíčku karet kvantových událostí.
 5. **Nastavte startovní riziko odhalení**. Umístěte žeton na stupnici odhalení na herním plánu. Pro snadnou hru doporučujeme zvolit riziko odhalení 1 nebo 2, pro větší výzvu a zkušenější hráče doporučujeme riziko odhalení 3 nebo 4. Pozor: Pokud během hry dosáhne riziko odhalení stupně (X), hra končí prohrou.
@@ -66,7 +66,7 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 
 **Herní dílky**
 - 1 žeton rizika odhalení
-- 8 kvantových součástek
+- 8 součástí kvantového počítače
 <img src="../images/quantum_components.png" width="100%">
 
 - 1 Centarious kostka (fialová binární šestistěnná kostka)
