@@ -1,8 +1,8 @@
 # Quantum components
 
 - **Fyzické Qubity**. Pokud vás odhalí orbitální obrana, můžete každou z kosmických lodí umístit na libovolnou planetu v Centariu.
-- **Propojení Qubitů**. Na začátku tahu si můžete se spoluphráčem vyměnit jednu ze svých akčních karet. Obě kosmické lodě musí být na stejné planetě. Tato výměna se nepočítá jako tah hráče. 
-- **Dilution Refrigerator**. The extra mass of the Dilution Refrigerator puts a strain on your ship's engines. The number of engine cards you may keep in your hand is reduced to two. Discard one engine card upon retrieving the Dilution Refrigerator.
+- **Propojení Qubitů**. Na začátku tahu si můžete se spoluhráčem vyměnit jednu ze svých akčních karet. Obě kosmické lodě však musí být na stejné planetě. Tato výměna se nepočítá jako tah hráče. 
+- **Dilution Refrigerator**. Dodatečná váha  Dilution Refrigerator zatěžuje kvantové motory. Počet akčních karet v ruce se snižuje na dvě. Odložte přebytečnou kartu ihned po získání Dilution Refrigerator.
 - **Kvantové operace**. When exchanging an engine card, draw two replacement cards, add one to your hand, and discard the other one.
 - **Kvantové progrmování**. When navigating to a planet in Entanglion that does not contain a quantum component, your ships automatically bypass the orbital defenses.
 - **Korekce kvantové chyby**. Add one to your roll when rolling the Entanglion die.
