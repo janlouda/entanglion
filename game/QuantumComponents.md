@@ -1,4 +1,4 @@
-# Quantum components
+# Součásti kvantového počítače
 
 - **Fyzické Qubity**. Pokud vás odhalí orbitální obrana, můžete každou z kosmických lodí umístit na libovolnou planetu v Centariu.
 - **Propojení Qubitů**. Na začátku tahu si můžete se spoluhráčem vyměnit jednu ze svých akčních karet. Obě kosmické lodě však musí být na stejné planetě. Tato výměna se nepočítá jako tah hráče. 
