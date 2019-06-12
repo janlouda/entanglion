@@ -39,7 +39,7 @@ Entaglion dále hráče seznamuje s různými hardwarovými a softwarovými sou�
 Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutovány v závěrečné části této knihy.
 
 # Příprava hry
-1. **Rozložte herní desku i desky obou vesmírných lodí**. Herní desku umístěte v dosahu obou hráčů a každému z hráčů přidělte jednu desku vesmírné lodi.
+1. **Rozložte herní desku i desky obou vesmírných lodí**. Herní desku umístěte v dosahu obou hráčů a každému z hráčů přidělte jednu desku kosmické lodi.
 2. **Rozmístěte součásti kvantového počítače**. Zamíchejte všechny součásti kvantového počítače a rozmístěte je náhodně na všechny planety v galaxii Entaglion viditelně popiskem nahoru.
 3. **Zamíchejte balíček akčních karet**. Vyndejte z balíčku akčních karet kartu SONDA a důkladně jej zamíchejte. Kartu SONDA dejte naspod a celý balík následně umístěte lícem dolů do zásobníku akčních karet na herním plánu.
 4. **Připravte balíček kvantových událostí**. Vyndejte z balíčku karet kvantových událostí kartu Kvantové Promíchání a ostatní karty důkladně promíchejte. Do zásobníku karet kvantových události na herním plánu odložte 3 karty událostí lícem dolů. Následně přidejte kartu Kvantové Promíchání a na ni pak zbytek balíčku karet kvantových událostí.
@@ -79,7 +79,7 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 # Akční karty
 <img src="../images/engine_cards.png" width="60%">
 
-Vesmírné lodě se po kvantovém universu pohybují pomocí akčních karet představujících kvantové operace. Každá trasa mezi dvěma body na herním plánu je zřetelně označena požadovanou kvantovou operací (např. "X/CNOT" znamená, že loď musí k přesunu použít buď kartu s operací X nebo CNOT). Cestu po některých trasách může iniciovat jen jedna z lodí. Hráči mohou zahrát akční kartu i v případě, že tato nebude mít žádný efekt (tj. i v případě, že z bodu, kde se jejich loď nachází, nevede pro danou operaci žádná trasa).
+Kosmické lodě se po kvantovém universu pohybují pomocí akčních karet představujících kvantové operace. Každá trasa mezi dvěma body na herním plánu je zřetelně označena požadovanou kvantovou operací (např. "X/CNOT" znamená, že loď musí k přesunu použít buď kartu s operací X nebo CNOT). Cestu po některých trasách může iniciovat jen jedna z lodí. Hráči mohou zahrát akční kartu i v případě, že tato nebude mít žádný efekt (tj. i v případě, že z bodu, kde se jejich loď nachází, nevede pro danou operaci žádná trasa).
 
 **X**. X slouží k přesunu mezi pozicemi <span style="color: purple"> NULA </span> a <span style="color: purple"> JEDNA </span> a dále v rámci galaxie Entaglion.
 
