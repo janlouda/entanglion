@@ -1,6 +1,6 @@
 # Karty kvantových událostí
 
-- **Bennett**. Kartu si ponechte, můžete ji zahrát v některém z následujících tahů. Zahrajete-li kartu, můžete teleportovat jednu ze spoluhráčových součástí kvantového počítače na svou loď nebo jednu svoji součást teleportovat na spoluhráčovu loď. _S malým úsilím může být kvantový stav teleportován - tj. přenesen z jednoho místa na druhé._
+- **Bennett**. Kartu si ponechte, můžete ji zahrát v některém z následujících tahů. Zahrajete-li kartu, můžete teleportovat jednu ze spoluhráčových součástí kvantového počítače na svou loď nebo jednu svoji součást teleportovat na spoluhráčovu loď. _S trochou úsilí může být kvantový stav teleportován - tj. přenesen z jednoho místa na druhé._
 - **Bit Flip Error**. Nastavte riziko odhalení na první ze čtyřek. _Všimli jste si, že z kvantových motorů vychází zelená a modrá záře. Hodnoty na ovládacím panelu ukazují, že se motory samy zkalibrovaly._
 - **Heisenberg**. Kartu si ponechte, můžete ji zahrát v některém z následujících tahů. Zahrajete-li kartu, hoďte kostkou Entanglionu (osmistěnka). Hodnota Vám určí planetu, na kterou lodě přemístěte. Začněte počítat od planety OMEGA ZERO po směru hodinových ručiček. Orbitální obranu v tomto případě ignorujte. _A tall man wearing a pork pie hat bumps into you in the spaceport and hands you a small blue card. "Zkuste tohle, nebudete litovat!" řekne, než zmizí._
 - **Quantum Shuffle**. Reshuffle the quantum event card stack as performed in Game Setup and draw another event card. _Sometimes, things that should happen, don't._
