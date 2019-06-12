@@ -2,7 +2,7 @@
 
 - **Fyzické Qubity**. Pokud vás odhalí orbitální obrana, můžete každou z kosmických lodí umístit na libovolnou planetu v Centariu.
 - **Propojení Qubitů**. Na začátku tahu si můžete se spoluhráčem vyměnit jednu ze svých akčních karet. Obě kosmické lodě však musí být na stejné planetě. Tato výměna se nepočítá jako tah hráče. 
-- **Dilution Refrigerator**. Dodatečná váha  Dilution Refrigerator zatěžuje kvantové motory. Počet akčních karet v ruce se snižuje na dvě. Odložte přebytečnou kartu ihned po získání Dilution Refrigerator.
+- **Chladící jednotka**. Dodatečná váha  Dilution Refrigerator zatěžuje kvantové motory. Počet akčních karet v ruce se snižuje na dvě. Odložte přebytečnou kartu ihned po získání Dilution Refrigerator.
 - **Kvantové operace**. Při výměně akční karty si lízněte dvě karty, jednu si ponechte a druhou odložte.
 - **Kvantové programování**. Na planetách v Entanglionu, kde již není součást kvantového počítače, se automaticky vyhnete orbitální obraně.
 - **Korekce kvantové chyby**. K hodu Entanglion kostkou přičtěte jedničku. 
