@@ -154,9 +154,9 @@ Planety Entanglionu jsou chráněny orbitální obranou, která hlídá oběžno
 > Pokud zahrajete akční kartu, která lodě nepřemístí na novou planetu v Entanglionu, nemusíte znovu házet proti orbitální obraně. 
 
 # Součásti kvantového počítače
-There are eight components that players must obtain in order to build the quantum computer to win the game, shown on each of the spaceship boards. Each component also grants a permanent special ability or hindrance to your ship, so you must strategize with your teammate to obtain the components in an optimal order!
+Hráči mají za úkol posbírat všechny součásti kvantového počítače a tím zvítězit. Jednotlivé součásti jsou popsané na každé z hracích desek kosmické lodi. Není nustné posbírat všechny součásti pouze na jednu loď. Každá součást kvantového počítače přináší kosmické lodi buď permanentní vylepšení nebo znevýhodnění, proto si vzájemně zvolte strategii pro sbírání součástí!
 
-> Quantum components are permanent upgrades to your ship and alter gameplay for the rest of the game.
+> Součásti kvantového počítače představují permanentní změnu kosmické lodi a mění nastavení po zbytek hry.
 
 <img src="../images/quantum_components.png" width="100%">
 
