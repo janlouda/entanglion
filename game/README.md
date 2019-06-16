@@ -81,15 +81,15 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 
 Kosmické lodě se po kvantovém vesmíru pohybují pomocí akčních karet představujících kvantové operace. Každá trasa mezi dvěma body na herním plánu je označena písmeny požadované kvantové operace (např. "X/CNOT" znamená, že loď musí k přesunu použít buď kartu s operací X nebo CNOT). Cestu po některých trasách může iniciovat jen jedna z lodí. Hráči mohou zahrát akční kartu i v případě, že tato nebude mít žádný efekt (tj. i v případě, že z bodu, kde se jejich loď nachází, nevede pro danou operaci žádná trasa).
 
-**X**. X slouží k přesunu mezi pozicemi <span style="color: purple"> NULA </span> a <span style="color: purple"> JEDNA </span> a dále v rámci galaxie Entaglion.
+**X**. X slouží k přesunu mezi pozicemi <span style="color: purple"> NULA </span> a <span style="color: purple"> JEDNA </span> a dále po trasách v rámci galaxie Entaglion.
 
-**H**. H slouží k přesunu mezi galaxiemi Centarius a Superius a dále v rámci galaxie Entaglion.
+**H**. H slouží k přesunu mezi galaxiemi Centarius a Superius a dále po trasách v rámci galaxie Entaglion.
 
 **SWAP**. Mimo galaxii Entaglion slouží operace SWAP k okamžitému prohození pozic obou kosmických lodí. Uvnitř galaxie Entaglion se touto operací lodě přesouvají mezi pozicemi <span style="color: #facd4d"> OMEGA NULA </span> a <span style="color: #facd4d"> OMEGA TŘI </span>.
 
 **CNOT**. CNOT slouží ke vstupu do galaxie Entaglion a následné navigaci uvnitř. V galaxii Centarius dále prohazuje pozice obou lodí, ale pouze v případě, že se jedna z nich nachází na pozici <span style="color: purple"> JEDNA </span>.
 
-**SONDA**. Jakmile je líznuta karta SONDA, vesmírné lodě byly odhaleny prastarým obranným mechanismem. Hráč aktuálně na tahu háže Entaglion kostkou a je-li výsledek menší než 4 (po zohlednění všech efektů jím držených kvantových součástí), zvyšte riziko odhalení o jedna. V opačném případě nemá SONDA žádný efekt. Odložte kartu SONDA na hromádku použitých karet a hráč na tahu si lízne jinou akční kartu.
+**SONDA**. Jakmile si jeden z hráčů lízne kartu SONDA, znamená to, že vesmírné lodě byly odhaleny obranným mechanismem. Hráč, který je na tahu, hodí Entaglion kostkou, a je-li výsledek menší než 4 (po zohlednění všech efektů jím držených kvantových součástí), zvyšte riziko odhalení o jedna. V opačném případě nemá SONDA žádný efekt. Odložte kartu SONDA na hromádku použitých karet a hráč na tahu si lízne jinou akční kartu.
 
 > Zahrané akční karty umísťujte na herní plán vždy tak, aby linie na nich odpovídaly lodi, která danou kvantovou operaci provádí.
 
