@@ -162,7 +162,8 @@ Hráči mají za úkol posbírat všechny součásti kvantového počítače a t
 
 Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbitu planety střežící součást kvantového počítače, můžete v dalším tahu vyslat misi na povrch planety, aby ji vyzvedla. Součásti kvantového počítače jsou střeženy pozemní obranou, kterou musíte, stejně jako orbitální obranu, obejít. 
 
-**To perform a retrieval mission:** Roll the Entanglion die. If the outcome is greater than the current detection rate, collect the component and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by one.
+**To perform a retrieval mission:** Hoďte Entanglion kostkou (osmistěnka). Pokud je hod vyšší než aktuální riziko odhalení ,
+If the outcome is greater than the current detection rate, collect the component and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by one.
 
 > If your away team fails to retrieve a quantum component, your ships remain in orbit on the current planet. You do not need to perform another orbital defense check on the next turn unless you navigate to another planet that has orbital defenses
 
