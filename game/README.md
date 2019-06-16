@@ -98,7 +98,7 @@ Kosmické lodě se po kvantovém vesmíru pohybují pomocí akčních karet pře
 # Herní tah
 Hráč, který je na tahu, musí provést právě jednu z následujících akcí:
 
-1. **Přesun**. Zahrajte akční kartu a je-li to možné, přesuňte svou loď (pokus se nacházíte v galaxii Entaglion, přesuňte obě lodě) na novou pozici. Ihned si lízněte novou kartu z balíčku akčních karet.
+1. **Přesun**. Zahrajte akční kartu a je-li to možné, přesuňte svou loď (pokud se nacházíte v galaxii Entaglion, přesuňte obě lodě) na novou pozici. Ihned si lízněte novou kartu z balíčku akčních karet.
 2. **Výměna**. Odhoďte z ruky libovolnou akční kartu na hromádku zahraných karet a lízněte si kartu jinou.
 3. **Extrakce**. Nachází-li se na vaší pozici součást kvantového počítače, můžete se pokusit ji získat - hoďte Entaglion kostkou.
 4. **Událost**. Máte-li v ruce kartu kvantové události, můžete ji zahrát.
