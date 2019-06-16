@@ -169,10 +169,10 @@ Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbi
 > Karta "Tunelový jev" vám uméžní obejít pozemní obranu. Pokud v rámci tahu zahrajete tuto kartu, byla mise úspěšná a nemusíte házet kostkou proti pozemní obraně; získanou součást přesuňte na hrací desku své lodi. 
 
 # Kvantové události
-Kvantové motory mohou být občas nepředvídatelné!  
-Quantum engines can be unpredictable at times! Once all six engine control slots have been filled, perform a quantum event at the end of your turn. In addition, perform a quantum event whenever you have been detected by orbital defenses.
+Kvantové motory mohou být občas nepředvídatelné! Pokud odehrané akční karty zaplní všechny pozice v části "Ovládání kvantových motorů", dojde ke kvantové události. Na konci kola si hráč lízne kartu kvantové události a odehraje ji, a to i v případě, že si již líznul kartu kvantové události během tahu (tj. lodě byly odhaleny orbitální obranou).  
 
-**To perform a quantum event:** Draw an event card and perform the instructions. Clear all engine cards from the game board and put them in engine discard pile.
+**Dojde-li ke kvantové události:** Lízněte si kartu kvantové události a proveďte akci stanovenou na kartě. 
+Clear all engine cards from the game board and put them in engine discard pile.
 
 > When Quantum Shuffle is drawn, reshuffle the quantum event cards as per the instructions in game setup.
 
