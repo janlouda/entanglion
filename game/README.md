@@ -162,16 +162,16 @@ Hráči mají za úkol posbírat všechny součásti kvantového počítače a t
 
 Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbitu planety střežící součást kvantového počítače, můžete v dalším tahu vyslat misi na povrch planety a pokusit se součást získat. Součásti kvantového počítače jsou střeženy pozemní obranou, kterou musíte, stejně jako orbitální obranu, obejít. 
 
-**To perform a retrieval mission:** Hoďte Entanglion kostkou (osmistěnka). Pokud je hod vyšší než aktuální riziko odhalení, získáváte součást kvantového počítače a můžete ji umístit na svoji loď. V opačném případě byla vaše mise odhalena pozemní obranou; zvyšte riziko odhalení o jednu pozici.
+**Jak získat součást kvantového počíatče:** Hoďte Entanglion kostkou (osmistěnka). Pokud je hod vyšší než aktuální riziko odhalení, získáváte součást kvantového počítače a můžete ji umístit na svoji loď. V opačném případě byla vaše mise odhalena pozemní obranou; zvyšte riziko odhalení o jednu pozici.
 
-> Pokud je mise získání součásti kvantového počítače neúspěšná, zůstávají obě lodě na orbitě planety. Pokud v dalším tahu zůstanou lodě na téže planetě, nemusí házet kostkou proti orbitální obraně. 
+> Pokud je mise s cílem získat součást kvantového počítače neúspěšná, zůstávají obě lodě na orbitě planety. Pokud v dalším tahu zůstanou lodě na téže planetě, nemusí házet kostkou proti orbitální obraně. 
 
-> Karta "Tunelový jev" vám uméžní obejít pozemní obranu. Pokud v rámci tahu zahrajete tuto kartu, byla mise úspěšná a nemusíte házet kostkou proti pozemní obraně; získanou součást přesuňte na hrací desku své lodi. 
+> Karta "Tunelový jev" vám umožní obejít pozemní obranu. Pokud v rámci tahu zahrajete tuto kartu, byla mise úspěšná a nemusíte házet kostkou proti pozemní obraně; získanou součást přesuňte na hrací desku své lodi. 
 
 # Kvantové události
-Kvantové motory mohou být občas nepředvídatelné! Pokud odehrané akční karty zaplní všechny pozice v části "Ovládání kvantových motorů", dojde ke kvantové události. Na konci kola si hráč lízne kartu kvantové události a odehraje ji, a to i v případě, že si již líznul kartu kvantové události během tahu (tj. lodě byly odhaleny orbitální obranou).  
+Kvantové motory mohou být občas nepředvídatelné! Pokud odehrané akční karty zaplní všechny pozice v části "Ovládání kvantových motorů", dojde ke kvantové události. Na konci kola si hráč lízne kartu kvantové události a zahraje ji, a to i v případě, že si již líznul kartu kvantové události během tahu (tj. lodě byly odhaleny orbitální obranou).  
 
-**Dojde-li ke kvantové události:** Lízněte si kartu kvantové události a proveďte akci stanovenou na kartě. Odstraňte všechny akční karty z části "Ovládání kvantových motorů" a přesuňte je do odhozených karet.
+**Dojde-li ke kvantové události:** Lízněte si kartu kvantové události a proveďte akci stanovenou na kartě. Odstraňte všechny akční karty z části "Ovládání kvantových motorů" a přesuňte je do odhozených karet. Akční karty hráč neodstraňuje v případě, že dojde ke kvantové události v důsledku odhalení orbitální obranou.
 
 > Pokud je zahrána karta "Kvantová kombinatorika", promíchejte karty kvantových událostí tak, jak je popsáno v části "Příprava hry".
 
@@ -182,8 +182,8 @@ Kvantové motory mohou být občas nepředvídatelné! Pokud odehrané akční k
 # Konec hry
 Hráči vítězí, jakmile získají všech osm součástí kvantového počítače. Hráči prohrají, jakmile se riziko odhalení dostane na pozici X. 
 
-# První hra
-Připravte hrací desku jak je popsáno v sekci "Příprava hry". V našem ukázkovém příkladu loď Mercurial (modrá) hraje první. Mercurial si lízne  tři karty: X, H a H. Loď Rubicon (červená) si lízne tři karty: CNOT, SWAP a X. Obě lodi začínají na planetě <span style="color: purple"> ZERO</span>.
+# Ukázková hra
+Připravte hrací desku, jak je popsáno v sekci "Příprava hry". V našem ukázkovém příkladu loď Mercurial (modrá) hraje jako první. Mercurial si lízne  tři karty: X, H a H. Loď Rubicon (červená) si lízne tři karty: CNOT, SWAP a X. Obě lodi začínají na planetě <span style="color: purple"> NULA</span>.
 
 <img src="../images/first1.png" width="40%">
 
@@ -196,20 +196,20 @@ Připravte hrací desku jak je popsáno v sekci "Příprava hry". V našem ukáz
 <img src="../images/first3.png" width="40%">
 <img src="../images/first_detection.png" width="40%">
 
-3. Mercurial se rozhodne vyslat misi pro součást "Kvantové operace", která je na <span style="color: #facd4d"> PHI PLUS </span>. Mercurial hodí číslo 6, které je vyšší než riziko odhalení (1) a úspěšně získává součást kvantového počítače.
+3. Mercurial se rozhodne vyslat misi pro získání součásti "Kvantové operace", která je ukryta na <span style="color: #facd4d"> PHI PLUS </span>. Mercurial hodí číslo 6, které je vyšší než riziko odhalení (1) a úspěšně získává součást kvantového počítače.
 
 <img src="../images/first4.png" width="40%">
 
-4. Rubicon se rozhodne přesunout lodě na planetu <span style="color: #facd4d"> OMEGA TWO </span>, proto zahraje akční kartu H. 
+4. Rubicon se rozhodne přesunout lodě na planetu <span style="color: #facd4d"> OMEGA DVĚ</span>, proto zahraje akční kartu H. 
 
 <img src="../images/first5.png" width="40%">
 
-Rubicon hodí Entanglion kostkou proti orbitální obraně planety OMEGA TWO. Padne mu číslo 1. Lodě byly odhaleny a musejí uniknout z galaxie Entanglionu! Rubicon hodí Centarius kostkou a padne mu opět číslo 1. Obě loděskočí zpět na planetu <span style="color: purple"> ONE</span>. Protože došlo k odhalení, posouvá žeton rizika odhalení o jednu pozici a dojde ke kvantové události. Rubicon si lízne kartu kvantové události – Heisenberg – kterou si ponechá pro některé z příštích kol. 
+Rubicon hodí Entanglion kostkou proti orbitální obraně planety OMEGA DVĚ. Padne mu číslo 1. Lodě byly odhaleny a musejí opustit galaxii Entanglion! Rubicon hodí Centarius kostkou a padne mu opět číslo 1. Obě lodě skočí zpět na planetu <span style="color: purple"> JEDNA</span>. Protože došlo k odhalení, posouvá se žeton rizika odhalení o jednu pozici a dojde ke kvantové události. Rubicon si lízne kartu kvantové události "Heisenberg", kterou si ponechá pro některé z příštích kol. 
 
 <img src="../images/first5.png" width="40%">
 <img src="../images/first_detection2.png" width="40%">
 
-hra pokračuje dokud Rubicon a Mercurial v Entanglionu neposbírají všechny součásti kvantového počítače nebo dokud riziko odhalení nedosáhne pozice X.
+Hra pokračuje, dokud Rubicon a Mercurial v Entanglionu neposbírají všechny součásti kvantového počítače nebo dokud riziko odhalení nedosáhne pozice X.
 
 # How Entanglion relates to quantum computing
 Entanglion models several aspects of a 2-qubit quantum computer. Specifically, the two spaceships represent two qubits, and each planet in each galaxy represents a different state of those qubits. Engine cards represent the quantum gates used to transition the qubits into different states.
