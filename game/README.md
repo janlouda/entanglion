@@ -87,7 +87,7 @@ Kosmické lodě se po kvantovém vesmíru pohybují pomocí akčních karet pře
 
 **SWAP**. Mimo galaxii Entaglion slouží operace SWAP k okamžitému prohození pozic obou kosmických lodí. Uvnitř galaxie Entaglion se touto operací lodě přesouvají mezi pozicemi <span style="color: #facd4d"> OMEGA NULA </span> a <span style="color: #facd4d"> OMEGA TŘI </span>.
 
-**CNOT**. CNOT slouží ke vstupu do galaxie Entaglion a následné navigaci uvnitř. V galaxii Centarius dále prohazuje pozice obou lodí, ale pouze v případě, že se jedna z nich nachází na pozici <span style="color: purple"> JEDNA </span>.
+**CNOT**. CNOT slouží ke vstupu do galaxie Entaglion a následné navigaci uvnitř. V galaxii Centarius dále prohazuje pozice obou lodí, ale pouze v případě, že se loď spoluhráče nachází na pozici <span style="color: purple"> JEDNA</span>.
 
 **SONDA**. Jakmile si jeden z hráčů lízne kartu SONDA, znamená to, že vesmírné lodě byly odhaleny obranným mechanismem. Hráč, který je na tahu, hodí Entaglion kostkou, a je-li výsledek menší než 4 (po zohlednění všech efektů jím držených kvantových součástí), zvyšte riziko odhalení o jednu pozici. V opačném případě nemá SONDA žádný efekt. Odložte kartu SONDA na hromádku použitých karet a lízněte si další akční kartu.
 
