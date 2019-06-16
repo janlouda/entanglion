@@ -171,46 +171,45 @@ Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbi
 # Kvantové události
 Kvantové motory mohou být občas nepředvídatelné! Pokud odehrané akční karty zaplní všechny pozice v části "Ovládání kvantových motorů", dojde ke kvantové události. Na konci kola si hráč lízne kartu kvantové události a odehraje ji, a to i v případě, že si již líznul kartu kvantové události během tahu (tj. lodě byly odhaleny orbitální obranou).  
 
-**Dojde-li ke kvantové události:** Lízněte si kartu kvantové události a proveďte akci stanovenou na kartě. 
-Clear all engine cards from the game board and put them in engine discard pile.
+**Dojde-li ke kvantové události:** Lízněte si kartu kvantové události a proveďte akci stanovenou na kartě. Odstraňte všechny akční karty z části "Ovládání kvantových motorů" a přesuňte je do odhozených karet.
 
-> When Quantum Shuffle is drawn, reshuffle the quantum event cards as per the instructions in game setup.
+> Pokud je zahrána karta "Kvantová kombinatorika", promíchejte karty kvantových událostí tak, jak je popsáno v části "Příprava hry".
 
-> In the event that your ship was detected by orbital defenses on the same turn as having filled all six engine control slots, perform two quantum events.
+> V případě, že byly vaše lodě odhaleny orbitální obranou a zároveň v témže kole došlo k zaplnění všech šesti pozic "Ovládání kvantových motorů", zahrajte dvě karty kvantové události. 
 
 <img src="../images/events.png" width="100%">
 
 # Konec hry
-Players immediately win the game when they have collected all eight components of the quantum computer. Players immediately lose the game when the detection rate reaches the end (X).
+Hráči vítězí, jakmile získají všech osm součástí kvantového počítače. Hráči prohrají, jakmile se riziko odhalení dostane na pozici X. 
 
-# Your first game
-Set up the game board as described in Setup. In this game, Mercurial (the blue player) will go first. Mercurial draws three cards: X, H, and H. Rubicon draws three cards: CNOT, SWAP, and X. Both ships start on <span style="color: purple"> ZERO </span>.
+# První hra
+Připravte hrací desku jak je popsáno v sekci "Příprava hry". V našem ukázkovém příkladu loď Mercurial (modrá) hraje první. Mercurial si lízne  tři karty: X, H a H. Loď Rubicon (červená) si lízne tři karty: CNOT, SWAP a X. Obě lodi začínají na planetě <span style="color: purple"> ZERO</span>.
 
 <img src="../images/first1.png" width="40%">
 
-1. Mercurial plays an H to navigate to <span style="color: green"> PLUS </span>. Mercurial draws X as a replacement card.
+1. Mercurial hraje akční kartu H a přesouvá loď na <span style="color: green"> PLUS</span>. Dolízne si akční kartu X.
 
 <img src="../images/first2.png" width="40%">
 
-2. Rubicon plays CNOT to navigate both ships to <span style="color: #facd4d"> PHI PLUS </span>. Rubicon draws H as a replacement card. After arriving at a planet in Entanglion, Rubicon must roll the Entanglion die to evade the orbital defenses. Since the detection rate is 1, Rubicon needs to roll a 2 or higher. Rubicon rolls the Entanglion die and gets a 3, just enough to evade detection!
+2. Rubicon hraje akční kartu CNOT, kterou přesouvá obě lodě na <span style="color: #facd4d"> PHI PLUS </span>. Dolízne si akční kartu H. Po přesunu na planetu v galaxii Entanglion musí Rubicon hodit Entanglion kostkou proti orbitální obraně. Protože je riziko odhalení na pozici 1, musí Rubicon hodit číslo 2 a vyšší. Rubicon hodí 3 a lodě se úspěšně vyhnou orbitální obraně!
 
 <img src="../images/first3.png" width="40%">
 <img src="../images/first_detection.png" width="40%">
 
-3. Mercurial decides to retrieve the Quantum Gates present on <span style="color: #facd4d"> PHI PLUS </span>. Mercurial rolls a 6, much higher than the detection rate of 1, and successfully retrieves the component.
+3. Mercurial se rozhodne vyslat misi pro součást "Kvantové operace", která je na <span style="color: #facd4d"> PHI PLUS </span>. Mercurial hodí číslo 6, které je vyšší než riziko odhalení (1) a úspěšně získává součást kvantového počítače.
 
 <img src="../images/first4.png" width="40%">
 
-4. Rubicon decides the next destination is <span style="color: #facd4d"> OMEGA TWO </span> and plays an H to navigate both ships there.
+4. Rubicon se rozhodne přesunout lodě na planetu <span style="color: #facd4d"> OMEGA TWO </span>, proto zahraje akční kartu H. 
 
 <img src="../images/first5.png" width="40%">
 
-Rubicon rolls the Entanglion die and it comes up as 1. The ships have been detected, so they must retreat! Rubicon rolls a 1 on the Centarious die, so both ships jump back to <span style="color: purple"> ONE </span>. Since they were detected, the detection rate is increased by 1 and a quantum event is triggered. Rubicon draws a quantum event card – Heisenberg – which can be used on a future turn.
+Rubicon hodí Entanglion kostkou proti orbitální obraně planety OMEGA TWO. Padne mu číslo 1. Lodě byly odhaleny a musejí uniknout z galaxie Entanglionu! Rubicon hodí Centarius kostkou a padne mu opět číslo 1. Obě loděskočí zpět na planetu <span style="color: purple"> ONE</span>. Protože došlo k odhalení, posouvá žeton rizika odhalení o jednu pozici a dojde ke kvantové události. Rubicon si lízne kartu kvantové události – Heisenberg – kterou si ponechá pro některé z příštích kol. 
 
 <img src="../images/first5.png" width="40%">
 <img src="../images/first_detection2.png" width="40%">
 
-Play continues until either Rubicon and Mercurial have collected all of the quantum components in Entanglion, or until the detection rate reaches the final level.
+hra pokračuje dokud Rubicon a Mercurial v Entanglionu neposbírají všechny součásti kvantového počítače nebo dokud riziko odhalení nedosáhne pozice X.
 
 # How Entanglion relates to quantum computing
 Entanglion models several aspects of a 2-qubit quantum computer. Specifically, the two spaceships represent two qubits, and each planet in each galaxy represents a different state of those qubits. Engine cards represent the quantum gates used to transition the qubits into different states.
