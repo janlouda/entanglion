@@ -135,7 +135,7 @@ Riziko odhalení určuje obtížnost průchodu planetární obranou (orbitální
 <img src="../images/detection_rate.png" width="40%">
 
 # Orbitální obrana
-Planets in Entanglion are protected by orbital defenses that scan for ships looking to plunder the quantum components hidden there. It is possible to evade these defenses using your quantum engines. If you are detected, however, your navigation system will automatically take evasive maneuvers and jump to a random planet in the Centarious system. This jump triggers a quantum event.
+Planety Entanglionu jsou chráněny orbitální obranou, která hlídá oběžnou dráhu před kosmickými loděmi snažícími se získat součást kvantového počítače, která je tam ukryta. Pomocí kvantových motorů je možné se této orbitální obraně vyhnout. Pokud jste však odhaleni, automaticky provede navigační systém lodi úhybný manévr spočívající v mezigalaktickém skoku na náhodnou planetu v Centariu. Tento skok spustí kvantovou událost.
 
 **When you navigate to any planet in Entanglion:** Roll the Entanglion die. If the outcome is greater than the current detection rate, the orbital defenses have been evaded. If not, perform the following actions:
 
