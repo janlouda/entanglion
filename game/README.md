@@ -128,7 +128,7 @@ Na pozici <span style="color: #facd4d"> PHI PLUS </span>, jestliže Rubicon zahr
 <img src="../images/entering_entanglion2.png" width="40%">
 
 # Riziko odhalení
-Riziko odhalení určuje obtížnost průchodu planetární obranou (orbitální a pozemní). Žeton rizika odhalení značí aktuální nastavení tohoto rizka. Pokud ze hráčova loď úspěšně nevyhne orbitální obraně nebo pozemní obraně, zvyšuje se riziko odhalení. Tím je v následujících tazích snazší pro planetární obranu odhalit hráčovu loď. Hra končí, pokud riziko odhalení dosáhne poslední úrovně (otnačené písmenem X). 
+Riziko odhalení určuje obtížnost překonání planetární obrany (orbitální a pozemní). Žeton rizika odhalení značí aktuální nastavení tohoto rizka. Pokud ze hráčova loď úspěšně nevyhne orbitální obraně nebo pozemní obraně, zvyšuje se riziko odhalení. Tím je v následujících tazích snazší pro planetární obranu odhalit hráčovu loď. Hra končí, pokud riziko odhalení dosáhne poslední úrovně (otnačené písmenem X). 
 
 > Riziko odhalení se posune o jednu pozici kdykoliv je hráč odhalen orbitální nebo pozemní obranou.
 
@@ -137,23 +137,23 @@ Riziko odhalení určuje obtížnost průchodu planetární obranou (orbitální
 # Orbitální obrana
 Planety Entanglionu jsou chráněny orbitální obranou, která hlídá oběžnou dráhu před kosmickými loděmi snažícími se získat součást kvantového počítače, která je tam ukryta. Pomocí kvantových motorů je možné se této orbitální obraně vyhnout. Pokud jste však odhaleni, automaticky provede navigační systém lodi úhybný manévr spočívající v mezigalaktickém skoku na náhodnou planetu v Centariu. Tento skok spustí kvantovou událost.
 
-**When you navigate to any planet in Entanglion:** Roll the Entanglion die. If the outcome is greater than the current detection rate, the orbital defenses have been evaded. If not, perform the following actions:
+**Pokaždé, když se přesunete na jakoukoliv z planet v Entanglionu:** Hoďte kostkou Entanglionu (osmistěnka). Pokud přehodíte hodnotu rizika odhalení, podařilo se vám vyhnout se orbitální obraně. Pokud hodíte stejně nebo méně, proveďte následující: 
 
-1. Roll the Centarious die and move both ships to the planet indicated. Both ships jump together.
-2. Increase the detection rate by one.
-3. Draw a quantum event card and perform the action indicated.
+1. Hoďte kostkou Centarius a přesuňte obě lodě na patřičnou planetu v Centariu (JEDNA nebo NULA). Obě lodě se přesunou spolu.
+2. Zvyšte riziko odhalení o jednu pozici.
+3. Lízněte si kartu kvantové události a proveďte akci stanovenou na kartě.
 
-> Physical Qubits lets you decide which planets in Centarious to place your spaceships.
+> Fyzické qubity (součást kvantového počítače) vám umožní vybrat si konkrétní planetu v Centariu, kam přesunete své kosmické lodě.
 
-> Quantum Programming lets you bypass orbital defenses when a planet doesn't have a quantum component.
+> Pomocí Kvantového programování (součást kvantového počítače) se vyhnete orbitální obraně na planetách bez součásti kvantového počítače. 
 
-> The Quantum Tunnel event card lets you bypass orbital defenses. If you play this card after entering the orbit of a planet in Entanglion, you do not need to roll the Entanglion die to determine if your ships were detected by orbital defenses.
+> Kvantová událost "Tunelový jev"  (karta kvantové události) umožňuje obejít orbitální obranu. Pokud kartu využijete po přesunu na některou z planet v Entanglionu, nemusíte již proti orbitální obraně házet kostkou. 
 
-> When entering Entanglion via the Heisenberg card, you may ignore the orbital defenses.
+> Při vstupu do galaxie Entanglionu pomocí karty Heisenberg (karta kvantové události) automaticky obcházíte orbitální obranu. 
 
-> If you play an engine card that does not transition your ships to a new planet in Entanglion, you do not need to re-check whether your ships have been detected.
+> Pokud zahrajete akční kartu, která lodě nepřemístí na novou planetu v Entanglionu, nemusíte znovu házet proti orbitální obraně. 
 
-# Quantum components
+# Součásti kvantového počítače
 There are eight components that players must obtain in order to build the quantum computer to win the game, shown on each of the spaceship boards. Each component also grants a permanent special ability or hindrance to your ship, so you must strategize with your teammate to obtain the components in an optimal order!
 
 > Quantum components are permanent upgrades to your ship and alter gameplay for the rest of the game.
