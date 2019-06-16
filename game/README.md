@@ -128,9 +128,9 @@ Na pozici <span style="color: #facd4d"> PHI PLUS</span>, jestliže Rubicon zahra
 <img src="../images/entering_entanglion2.png" width="40%">
 
 # Riziko odhalení
-Riziko odhalení určuje obtížnost překonání planetární obrany (orbitální a pozemní). Žeton rizika odhalení značí aktuální nastavení tohoto rizka. Pokud ze hráčova loď úspěšně nevyhne orbitální obraně nebo pozemní obraně, zvyšuje se riziko odhalení. Tím je v následujících tazích snazší pro planetární obranu odhalit hráčovu loď. Hra končí, pokud riziko odhalení dosáhne poslední úrovně (otnačené písmenem X). 
+Riziko odhalení určuje obtížnost překonání planetární obrany (orbitální a pozemní). Pozice žetonu značí aktuální nastavení tohoto rizka. Pokud se hráčova loď nevyhne orbitální nebo pozemní obraně, zvyšuje se riziko odhalení (žeton se posune o jednu pozici vpřed). Tím je v následujících tazích snazší pro planetární obranu odhalit hráčovu loď. Hra končí, pokud riziko odhalení dosáhne poslední pozice (označené písmenem X). 
 
-> Riziko odhalení se posune o jednu pozici kdykoliv je hráč odhalen orbitální nebo pozemní obranou.
+> Riziko odhalení se posune o jednu pozici vpřed, kdykoliv je hráč odhalen orbitální nebo pozemní obranou.
 
 <img src="../images/detection_rate.png" width="40%">
 
