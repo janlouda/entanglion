@@ -135,7 +135,7 @@ Riziko odhalení určuje obtížnost překonání planetární obrany (orbitáln
 <img src="../images/detection_rate.png" width="40%">
 
 # Orbitální obrana
-Planety Entanglionu jsou chráněny orbitální obranou, která hlídá oběžnou dráhu před kosmickými loděmi snažícími se získat součást kvantového počítače, která je tam ukryta. Pomocí kvantových motorů je možné se této orbitální obraně vyhnout. Pokud jste však odhaleni, automaticky provede navigační systém lodi úhybný manévr spočívající v mezigalaktickém skoku na náhodnou planetu v Centariu. Tento skok spustí kvantovou událost.
+Planety Entanglionu jsou chráněny orbitální obranou, která brání kosmickým lodím získat zde ukrytou součást kvantového počítače. Pomocí kvantových motorů je možné se této orbitální obraně vyhnout. Pokud jste však odhaleni, automaticky provede navigační systém lodi úhybný manévr spočívající v mezigalaktickém skoku na náhodnou planetu v Centariu. Tento skok spustí kvantovou událost.
 
 **Pokaždé, když se přesunete na jakoukoliv z planet v Entanglionu:** Hoďte kostkou Entanglionu (osmistěnka). Pokud přehodíte hodnotu rizika odhalení, podařilo se vám vyhnout se orbitální obraně. Pokud hodíte stejně nebo méně, proveďte následující: 
 
@@ -145,7 +145,7 @@ Planety Entanglionu jsou chráněny orbitální obranou, která hlídá oběžno
 
 > Fyzické qubity (součást kvantového počítače) vám umožní vybrat si konkrétní planetu v Centariu, kam přesunete své kosmické lodě.
 
-> Pomocí Kvantového programování (součást kvantového počítače) se vyhnete orbitální obraně na planetách bez součásti kvantového počítače. 
+> Pomocí Kvantového programování (součást kvantového počítače) se vyhnete orbitální obraně na planetách, na kterých jste již získali součást kvantového počítače. 
 
 > Kvantová událost "Tunelový jev"  (karta kvantové události) umožňuje obejít orbitální obranu. Pokud kartu využijete po přesunu na některou z planet v Entanglionu, nemusíte již proti orbitální obraně házet kostkou. 
 
