@@ -18,35 +18,35 @@ Blahopřejeme, stal jste se novým kapitánem mezigalaktické dopravní společn
 
 Už léta vás fascinují pověsti o dávno zapomentué kvantové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohl by váš lodní počítač během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu však jeden problém: autoři původního kvantového počítače se obávali jeho zneužití, a tak ho rozebrali a jeho součásti schovali na různých planetách příšně střežené galaxie Entaglion.
 
-Pokud chcete tuto výjimečnou technologii získat, musíte svoji loď nepozorovaně navigovat po planetách Entaglionu a získat na nich jednotlivé součásti kvantového počítače. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který je ovládá, můžou být tyto motory trochu... nepředvídatelné.
+Pokud chcete tuto výjimečnou technologii získat, musíte svoji loď nepozorovaně navigovat po planetách Entaglionu a posbírat na nich jednotlivé součásti kvantového počítače. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače jsou tyto motory trochu... nepředvídatelné.
 
 Jdete do toho?
 
 # Cíl hry
-Entanglion je desková hra pro dva hráče, kteří spolu musejí spolupracovat. Cílem hry je znovu postavit kvantový počítač z davné doby. Společně s vaším spoluhráčem musíte probádat tři galaxie kvantového prostoru - Centarius, Superious a Entaglion - a získat všech osm součástí kvantového počítače. Nesmí vás ale odhalit obranné mechanismy, které mají za úkol kvantové součásti střežit!
+Entanglion je desková hra pro dva hráče, kteří spolu musejí spolupracovat. Cílem hry je znovu postavit dávno zapomenutý kvantový počítač. Společně s vaším spoluhráčem musíte probádat tři galaxie kvantového prostoru - Centarius, Superious a Entaglion - a získat všech osm součástí kvantového počítače. Nesmí vás ale odhalit obranné mechanismy, které mají za úkol kvantové součásti střežit!
 
 # Principy hry
-Entaglion byl navržen tak, aby hráčům představil a přiblížil základní principy kvantových počítačů:
+Hra Entaglion byla navržena tak, aby hráčům představila a přiblížila základní principy kvantových počítačů:
 
-- **Qubity** (Kvantové bity) jsou základní stavební blok kvantových počítačů.
+- **Qubity** (Kvantové bity) jsou základní stavební kameny kvantových počítačů.
 - **Superpozice** značí jev, kdy kvantový systém existuje v několika pravděpodobnostních stavech zároveň.
 - **Provázání** vzniká v momentě, kdy je stav jednoho qubitu přímo svázán se stavem jiného qubitu.
 - **Měření** označuje proces pozorování klasické hodnoty qubitu.
 - **Chyba** nastává v případě, kdy náhodný šum v kvantovém systému naruší měření hodnoty qubitu.
 
-Entaglion dále hráče seznamuje s různými hardwarovými a softwarovými součástmi, které se podílí na fungování reálného kvantového počítače.
+Hra Entaglion dále hráče seznamuje s různými hardwarovými a softwarovými součástmi, které se podílí na fungování reálného kvantového počítače.
 
 Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutovány v závěrečné části této knihy.
 
 # Příprava hry
-1. **Rozložte herní desku i desky obou kosmických lodí**. Herní desku umístěte v dosahu obou hráčů a každému z hráčů přidělte jednu desku kosmické lodi.
-2. **Rozmístěte součásti kvantového počítače**. Zamíchejte všechny součásti kvantového počítače a rozmístěte je náhodně na všechny planety v galaxii Entaglion viditelně popiskem nahoru.
-3. **Zamíchejte balíček akčních karet**. Vyndejte z balíčku akčních karet kartu SONDA a důkladně jej zamíchejte. Kartu SONDA dejte naspod a celý balík následně umístěte lícem dolů do vyznačeného pole na herním plánu.
-4. **Připravte balíček kvantových událostí**. Vyndejte z balíčku karet kvantových událostí kartu "Kvantová kombinatorika" a ostatní karty důkladně promíchejte. Do vyznačeného pole na herním plánu odložte 3 karty událostí lícem dolů. Následně přidejte kartu "Kvantová kombinatorika" a na ni pak zbytek balíčku karet kvantových událostí.
-5. **Nastavte startovní riziko odhalení**. Umístěte žeton na stupnici odhalení na herním plánu. Pro snadnou hru doporučujeme zvolit riziko odhalení 1 nebo 2, pro větší výzvu a zkušenější hráče doporučujeme riziko odhalení 3 nebo 4. Upozornění: Pokud během hry dosáhne riziko odhalení stupně (X), hra končí prohrou.
-6. **Určete začínajícího hráče**. Oba hráči hodí Entaglion kostkou (8 stěnná kostka). Hráč s vyšším číslem začíná hru. (Opakujte hod v případě remízy)
-7. **Určete startovní pozice kosmických lodí**. Oba hráči postupně od začínajícího hráče hodí Centarius kostkou a dle výsledku na kostce umístí svou loď na herní plán v galaxii Centarious (0 přísluší poli <span style="color: purple"> NULA </span>, 1 přísluší poli <span style="color: purple"> JEDNA </span>). Tento proces simuluje počáteční nastavení kvantového systému.
-8. **Lízněte si akční karty**. Počínaje prvním hráčem, oba hráči si líznou 3 akční karty. Tyto karty mohou mít rozloženy před sebou viditelně lícem nahoru.
+1. **Rozložte herní desku i desky obou kosmických lodí**: Herní desku umístěte v dosahu obou hráčů a každému z hráčů přidělte jednu desku kosmické lodi.
+2. **Rozmístěte součásti kvantového počítače**: Zamíchejte všechny součásti kvantového počítače a rozmístěte je náhodně na všechny planety v galaxii Entaglion viditelně popiskem nahoru.
+3. **Zamíchejte balíček akčních karet**: Vyndejte z balíčku akčních karet kartu SONDA a důkladně jej zamíchejte. Kartu SONDA dejte naspod a celý balík následně umístěte lícem dolů do vyznačeného pole na herním plánu.
+4. **Připravte balíček kvantových událostí**: Vyndejte z balíčku karet kvantových událostí kartu "Kvantová kombinatorika" a ostatní karty důkladně promíchejte. Do vyznačeného pole na herním plánu odložte 3 karty událostí lícem dolů. Následně přidejte kartu "Kvantová kombinatorika" a na ni pak zbytek balíčku karet kvantových událostí.
+5. **Nastavte startovní riziko odhalení**: Umístěte žeton na stupnici odhalení na herním plánu. Pro snadnou hru doporučujeme zvolit riziko odhalení 1 nebo 2, pro větší výzvu a zkušenější hráče doporučujeme riziko odhalení 3 nebo 4. Upozornění: Pokud během hry dosáhne riziko odhalení stupně (X), hra končí prohrou.
+6. **Určete začínajícího hráče**: Oba hráči hodí Entaglion kostkou (8 stěnná kostka). Hráč s vyšším číslem začíná hru. (Opakujte hod v případě remízy)
+7. **Určete startovní pozice kosmických lodí**: Oba hráči postupně od začínajícího hráče hodí Centarius kostkou a dle výsledku na kostce umístí svou loď na herní plán v galaxii Centarious (0 přísluší poli <span style="color: purple"> NULA </span>, 1 přísluší poli <span style="color: purple"> JEDNA </span>). Tento proces simuluje počáteční nastavení kvantového systému.
+8. **Lízněte si akční karty**: Počínaje prvním hráčem, oba hráči si líznou 3 akční karty. Tyto karty mohou mít rozloženy před sebou viditelně lícem nahoru.
 
 <img src="../images/setup.png" width="100%">
 
