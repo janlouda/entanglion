@@ -18,7 +18,7 @@ Blahopřejeme, stal jste se novým kapitánem mezigalaktické dopravní společn
 
 Už léta vás fascinují pověsti o dávno zapomentué kvantové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohl by váš lodní počítač během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu však jeden problém: autoři původního kvantového počítače se obávali jeho zneužití, a tak ho rozebrali a jeho součásti schovali na různých planetách příšně střežené galaxie Entaglion.
 
-Pokud chcete tuto výjimečnou technologii získat, musíte svoji loď nepozorovaně navigovat po planetách Entaglionu. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který je ovládá, můžou být tyto motory trochu... nepředvídatelné.
+Pokud chcete tuto výjimečnou technologii získat, musíte svoji loď nepozorovaně navigovat po planetách Entaglionu a získat na nich jednotlivé součásti kvantového počítače. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který je ovládá, můžou být tyto motory trochu... nepředvídatelné.
 
 Jdete do toho?
 
