@@ -117,13 +117,13 @@ Vedoucí loď (hrající akci CNOT) | Druhá loď | Výsledná destinace
 
 Dobrovolné opuštění galaxie Entaglion probíhá obdobně, nacházejí-li se lodě na některé z následujících pozic: <span style="color: #facd4d"> PHI PLUS </span>, <span style="color: #facd4d"> PHI MÍNUS </span>, <span style="color: #facd4d"> PSI PLUS </span> nebo <span style="color: #facd4d"> PSI MÍNUS</span>. Hráč, který je na tahu, zahraje akční kartu CNOT, a jeho loď se vrací do galaxie Centarius. Loď spoluhráče se vrací do galaxie Superius. Obě lodě se přitom pohybují po trase vytyčené šedými čarami.
 
-Příklad: Loď Rubicon obíhá planetu <span style="color: purple"> NULA </span> a loď Mercurial obíhá planetu <span style="color: green"> PLUS </span>. Jestliže Rubicon zahraje akci CNOT, obě lodě se podle šedých čar přesunou na pozici <span style="color: #facd4d"> PHI PLUS </span>.
+Příklad: Loď Rubicon obíhá planetu <span style="color: purple"> NULA </span> a loď Mercurial obíhá planetu <span style="color: green"> PLUS</span>. Jestliže Rubicon zahraje akci CNOT, obě lodě se podle šedých čar přesunou na pozici <span style="color: #facd4d"> PHI PLUS</span>.
 
 > Mimo galaxii Entaglion se každá loď pohybuje samostatně. Uvnitř galaxie Entaglion se však obě lodě přesouvají společně bez ohledu na to, který hráč akční kartu zahrál.
 
 <img src="../images/entering_entanglion.png" width="40%">
 
-Na pozici <span style="color: #facd4d"> PHI PLUS </span>, jestliže Rubicon zahraje akci CNOT, Rubicon se přesune na <span style="color: purple"> NULA </span> a Mercurial se přesune na <span style="color: green"> PLUS </span>.
+Na pozici <span style="color: #facd4d"> PHI PLUS</span>, jestliže Rubicon zahraje akci CNOT, Rubicon se přesune na <span style="color: purple"> NULA </span> a Mercurial se přesune na <span style="color: green"> PLUS </span>.
 
 <img src="../images/entering_entanglion2.png" width="40%">
 
