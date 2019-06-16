@@ -156,11 +156,11 @@ Planety Entanglionu jsou chráněny orbitální obranou, která hlídá oběžno
 # Součásti kvantového počítače
 Hráči mají za úkol posbírat všechny součásti kvantového počítače a tím zvítězit. Jednotlivé součásti jsou popsané na každé z hracích desek kosmické lodi. Není nustné posbírat všechny součásti pouze na jednu loď. Každá součást kvantového počítače přináší kosmické lodi buď permanentní vylepšení nebo znevýhodnění, proto si vzájemně zvolte strategii pro sbírání součástí!
 
-> Součásti kvantového počítače představují permanentní změnu kosmické lodi a mění nastavení po zbytek hry.
+> Součásti kvantového počítače představují permanentní změnu kosmické lodi a mění tak podmínky po zbytek hry.
 
 <img src="../images/quantum_components.png" width="100%">
 
-When your ships are orbiting a planet with a quantum component, you may send an away team to the planet’s surface to retrieve it. Quantum components are guarded by automated ground defenses which, as with orbital defenses, must be evaded.
+Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbitu planety střežící součást kvantového počítače, můžete v dalším tahu vyslat misi na povrch planety, aby ji vyzvedla. Součásti kvantového počítače jsou střeženy pozemní obranou, kterou musíte, stejně jako orbitální obranu, obejít. 
 
 **To perform a retrieval mission:** Roll the Entanglion die. If the outcome is greater than the current detection rate, collect the component and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by one.
 
@@ -179,7 +179,7 @@ Quantum engines can be unpredictable at times! Once all six engine control slots
 
 <img src="../images/events.png" width="100%">
 
-# Game end
+# Konec hry
 Players immediately win the game when they have collected all eight components of the quantum computer. Players immediately lose the game when the detection rate reaches the end (X).
 
 # Your first game
