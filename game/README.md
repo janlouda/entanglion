@@ -154,13 +154,13 @@ Planety Entanglionu jsou chráněny orbitální obranou, která brání kosmick�
 > Pokud zahrajete akční kartu, která lodě nepřemístí na novou planetu v Entanglionu, nemusíte znovu házet proti orbitální obraně. 
 
 # Součásti kvantového počítače
-Hráči mají za úkol posbírat všechny součásti kvantového počítače a tím zvítězit. Jednotlivé součásti jsou popsané na každé z hracích desek kosmické lodi. Není nustné posbírat všechny součásti pouze na jednu loď. Každá součást kvantového počítače přináší kosmické lodi buď permanentní vylepšení nebo znevýhodnění, proto si vzájemně zvolte strategii pro sbírání součástí!
+Hráči mají za úkol posbírat všechny součásti kvantového počítače a tím zvítězit. Jednotlivé součásti jsou popsány na každé z hracích desek kosmické lodi. Není nutné, aby všechny součásti posbírala pouze jedna loď. Každá součást kvantového počítače přináší kosmické lodi buď permanentní vylepšení nebo znevýhodnění, proto si vzájemně zvolte strategii pro sbírání součástí!
 
-> Součásti kvantového počítače představují permanentní změnu kosmické lodi a mění tak podmínky po zbytek hry.
+> Součásti kvantového počítače představují permanentní změnu kosmické lodi, a mění tak podmínky po zbytek hry.
 
 <img src="../images/quantum_components.png" width="100%">
 
-Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbitu planety střežící součást kvantového počítače, můžete v dalším tahu vyslat misi na povrch planety, aby ji vyzvedla. Součásti kvantového počítače jsou střeženy pozemní obranou, kterou musíte, stejně jako orbitální obranu, obejít. 
+Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbitu planety střežící součást kvantového počítače, můžete v dalším tahu vyslat misi na povrch planety a pokusit se součást získat. Součásti kvantového počítače jsou střeženy pozemní obranou, kterou musíte, stejně jako orbitální obranu, obejít. 
 
 **To perform a retrieval mission:** Hoďte Entanglion kostkou (osmistěnka). Pokud je hod vyšší než aktuální riziko odhalení, získáváte součást kvantového počítače a můžete ji umístit na svoji loď. V opačném případě byla vaše mise odhalena pozemní obranou; zvyšte riziko odhalení o jednu pozici.
 
