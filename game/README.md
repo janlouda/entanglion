@@ -164,11 +164,12 @@ Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbi
 
 **To perform a retrieval mission:** Hoďte Entanglion kostkou (osmistěnka). Pokud je hod vyšší než aktuální riziko odhalení, získáváte součást kvantového počítače a můžete ji umístit na svoji loď. V opačném případě byla vaše mise odhalena pozemní obranou; zvyšte riziko odhalení o jednu pozici.
 
-> If your away team fails to retrieve a quantum component, your ships remain in orbit on the current planet. You do not need to perform another orbital defense check on the next turn unless you navigate to another planet that has orbital defenses
+> Pokud je mise získání součásti kvantového počítače neúspěšná, zůstávají obě lodě na orbitě planety. Pokud v dalším tahu zůstanou lodě na téže planetě, nemusí házet kostkou proti orbitální obraně. 
 
-> The Quantum Tunnel event card lets you bypass ground defenses. If you play this card during your turn, your retrieval mission was successful. You do not need to roll the Entanglion die to determine if your away team was detected by ground defenses; add the quantum component to your ship
+> Karta "Tunelový jev" vám uméžní obejít pozemní obranu. Pokud v rámci tahu zahrajete tuto kartu, byla mise úspěšná a nemusíte házet kostkou proti pozemní obraně; získanou součást přesuňte na hrací desku své lodi. 
 
-# Quantum events
+# Kvantové události
+Kvantové motory mohou být občas nepředvídatelné!  
 Quantum engines can be unpredictable at times! Once all six engine control slots have been filled, perform a quantum event at the end of your turn. In addition, perform a quantum event whenever you have been detected by orbital defenses.
 
 **To perform a quantum event:** Draw an event card and perform the instructions. Clear all engine cards from the game board and put them in engine discard pile.
