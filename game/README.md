@@ -4,7 +4,7 @@
 
 **2 HRÁČI | VĚK 14+ | ~45 MINUT**
 
-Entaglion prověří vaše schopnosti navigace a strategického plánování. Vaším úkolem je společně prozkoumat novou galaxii a znovu postavit starodávný kvantový počítač.
+Entaglion prověří vaše schopnosti strategického plánování a navigace. Vaším úkolem je společně prozkoumat novou galaxii a znovu sestavit dávno zapomenutý kvantový počítač.
 
 http://ibm.biz/entanglion
 
@@ -16,9 +16,9 @@ http://ibm.biz/entanglion
 
 Blahopřejeme, stal jste se novým kapitánem mezigalaktické dopravní společnosti! Nyní máte konečně příležitost vše zdokonalit.
 
-Už léta vás fascinují pověsti o starodávné kvantové počítačové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohla by vaše loď během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu jen jeden problém: autoři původního kvantového počítače se obávali, že má příliš velkou moc, a tak ho rozebrali a jeho součásti schovali na různých planetách příšně střežené galaxie Entaglion.
+Už léta vás fascinují pověsti o dávno zapomentué kvantové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohl by váš lodní počítač během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu však jeden problém: autoři původního kvantového počítače se obávali jeho zneužití, a tak ho rozebrali a jeho součásti schovali na různých planetách příšně střežené galaxie Entaglion.
 
-Pokud chcete obnovit tuto výjimečnou technologii, musíte navigovat svoji loď po planetách Entaglionu a vyhnout se jejich obraně. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který je ovládá, můžou být tyto motory trochu... nepředvídatelné.
+Pokud chcete tuto výjimečnou technologii získat, musíte svoji loď nepozorovaně navigovat po planetách Entaglionu. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače, který je ovládá, můžou být tyto motory trochu... nepředvídatelné.
 
 Jdete do toho?
 
@@ -162,8 +162,7 @@ Hráči mají za úkol posbírat všechny součásti kvantového počítače a t
 
 Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbitu planety střežící součást kvantového počítače, můžete v dalším tahu vyslat misi na povrch planety, aby ji vyzvedla. Součásti kvantového počítače jsou střeženy pozemní obranou, kterou musíte, stejně jako orbitální obranu, obejít. 
 
-**To perform a retrieval mission:** Hoďte Entanglion kostkou (osmistěnka). Pokud je hod vyšší než aktuální riziko odhalení ,
-If the outcome is greater than the current detection rate, collect the component and place it on your spaceship board. If not, your away team was detected by the ground defenses; increase the detection rate by one.
+**To perform a retrieval mission:** Hoďte Entanglion kostkou (osmistěnka). Pokud je hod vyšší než aktuální riziko odhalení, získáváte součást kvantového počítače a můžete ji umístit na svoji loď. V opačném případě byla vaše mise odhalena pozemní obranou; zvyšte riziko odhalení o jednu pozici.
 
 > If your away team fails to retrieve a quantum component, your ships remain in orbit on the current planet. You do not need to perform another orbital defense check on the next turn unless you navigate to another planet that has orbital defenses
 
