@@ -46,7 +46,7 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 5. **Nastavte startovní riziko odhalení**: Umístěte žeton na stupnici odhalení na herním plánu. Pro snadnou hru doporučujeme zvolit riziko odhalení 1 nebo 2, pro větší výzvu a zkušenější hráče doporučujeme riziko odhalení 3 nebo 4. Upozornění: Pokud během hry dosáhne riziko odhalení stupně (X), prohráli jste a hra končí.
 6. **Určete začínajícího hráče**: Oba hráči hodí Entaglion kostkou (osmistěnka). Hráč s vyšším číslem začíná hru. (Opakujte hod v případě remízy.)
 7. **Určete startovní pozice kosmických lodí**: Oba hráči postupně hodí Centarius kostkou a dle výsledku na kostce umístí svou loď na herní plán v galaxii Centarius (padne-li 0, loď hráče jde na pole <span style="color: purple"> NULA </span>, padne-li 1, lodď hráče jde na pole <span style="color: purple"> JEDNA</span>). Tento proces simuluje počáteční nastavení kvantového systému.
-8. **Lízněte si akční karty**: Oba hráči si líznou 3 akční karty, které položí před sebe viditelně lícem nahoru.
+8. **Lízněte si akční karty**: Oba hráči si líznou 3 akční karty, které položí před sebe viditelně lícem nahoru. Když hráč použije některou ze svých akčních karet, vždy si lízne novou.
 
 <img src="../images/setup.png" width="100%">
 
@@ -89,7 +89,7 @@ Kosmické lodě se po kvantovém vesmíru pohybují pomocí akčních karet pře
 
 **CNOT**. CNOT slouží ke vstupu do galaxie Entaglion a následné navigaci uvnitř. V galaxii Centarius dále prohazuje pozice obou lodí, ale pouze v případě, že se jedna z nich nachází na pozici <span style="color: purple"> JEDNA </span>.
 
-**SONDA**. Jakmile si jeden z hráčů lízne kartu SONDA, znamená to, že vesmírné lodě byly odhaleny obranným mechanismem. Hráč, který je na tahu, hodí Entaglion kostkou, a je-li výsledek menší než 4 (po zohlednění všech efektů jím držených kvantových součástí), zvyšte riziko odhalení o jedna. V opačném případě nemá SONDA žádný efekt. Odložte kartu SONDA na hromádku použitých karet a hráč na tahu si lízne jinou akční kartu.
+**SONDA**. Jakmile si jeden z hráčů lízne kartu SONDA, znamená to, že vesmírné lodě byly odhaleny obranným mechanismem. Hráč, který je na tahu, hodí Entaglion kostkou, a je-li výsledek menší než 4 (po zohlednění všech efektů jím držených kvantových součástí), zvyšte riziko odhalení o jednu pozici. V opačném případě nemá SONDA žádný efekt. Odložte kartu SONDA na hromádku použitých karet a lízněte si další akční kartu.
 
 > Zahrané akční karty umísťujte na herní plán vždy tak, aby linie na nich odpovídaly lodi, která danou kvantovou operaci provádí.
 
@@ -98,9 +98,9 @@ Kosmické lodě se po kvantovém vesmíru pohybují pomocí akčních karet pře
 # Herní tah
 Hráč, který je na tahu, musí provést právě jednu z následujících akcí:
 
-1. **Přesun**. Zahrajte akční kartu a je-li to možné, přesuňte svou loď (v galaxii Entaglion obě lodě) na novou pozici. Ihned si lízněte novou kartu z balíčku. Každý hráč může iniciovat pohyb pouze se svou lodí.
+1. **Přesun**. Zahrajte akční kartu a je-li to možné, přesuňte svou loď (pokus se nacházíte v galaxii Entaglion, přesuňte obě lodě) na novou pozici. Ihned si lízněte novou kartu z balíčku akčních karet.
 2. **Výměna**. Odhoďte z ruky libovolnou akční kartu na hromádku zahraných karet a lízněte si kartu jinou.
-3. **Extrakce**. Nachází-li se na vaší pozici kvantová součástka, hoďte Entaglion kostkou a pokuste se ji získat.
+3. **Extrakce**. Nachází-li se na vaší pozici součást kvantového počítače, můžete se pokusit ji získat - hoďte Entaglion kostkou.
 4. **Událost**. Máte-li v ruce kartu kvantové události, můžete ji zahrát.
 
 > Hráči se nemohou vzdát svého tahu, musí vždy provést právě jednu z akcí popsaných výše.
