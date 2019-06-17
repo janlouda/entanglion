@@ -123,7 +123,7 @@ Příklad: Loď Rubicon obíhá planetu <span style="color: purple"> NULA </span
 
 <img src="../images/entering_entanglion.png" width="40%">
 
-Na pozici <span style="color: #facd4d"> PHI PLUS</span>, jestliže Rubicon zahraje akci CNOT, Rubicon se přesune na <span style="color: purple"> NULA </span> a Mercurial se přesune na <span style="color: green"> PLUS </span>.
+Na pozici <span style="color: #facd4d"> PHI PLUS</span>, jestliže Rubicon zahraje akci CNOT, Rubicon se přesune na <span style="color: purple"> NULA </span> a Mercurial se přesune na <span style="color: green"> PLUS</span>.
 
 <img src="../images/entering_entanglion2.png" width="40%">
 
