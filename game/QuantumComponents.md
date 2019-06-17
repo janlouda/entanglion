@@ -6,5 +6,5 @@
 - **Kvantové operace (Quantum Gates)**. Při výměně akční karty si lízněte dvě karty, jednu si ponechte a druhou odložte.
 - **Kvantové programování (Quantum Programming)**. Na planetách v Entanglionu, na kterých jste již získali součást kvantového počítače, se automaticky vyhnete orbitální obraně.
 - **Korekce kvantové chyby (Quantum Error Correction)**. K hodu Entanglion kostkou přičtěte jedničku. 
-- **Kontrolní systémy (Control Infrastructure)**. Mikrovlnné záření vydávané kontrolnímy systémy usnaďnuje odhalení kosmické lodi. Z hodu Entanglion kostkou odečtěte jedničku.
+- **Kontrolní systémy (Control Infrastructure)**. Mikrovlnné záření vydávané kontrolními systémy usnadňuje odhalení kosmické lodi. Z hodu Entanglion kostkou odečtěte jedničku.
 - **Magnetické štíty (Magnetic Shielding)**. Při hodu Entanglion kostkou máte k dispozici druhý pokus. Platný je vždy pouze poslední hod.
