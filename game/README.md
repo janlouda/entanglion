@@ -41,7 +41,7 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 # Příprava hry
 1. **Rozložte herní desku i desky obou kosmických lodí**: Herní desku umístěte v dosahu obou hráčů a každému z hráčů přidělte jednu desku kosmické lodi.
 2. **Rozmístěte součásti kvantového počítače**: Zamíchejte všechny součásti kvantového počítače a rozmístěte je náhodně na všechny planety v galaxii Entaglion viditelně popiskem nahoru.
-3. **Zamíchejte balíček akčních karet**: Vyndejte z balíčku akčních karet kartu SONDA a důkladně jej zamíchejte. Kartu SONDA dejte naspod a celý balík následně umístěte lícem dolů do vyznačeného pole na herním plánu.
+3. **Zamíchejte balíček akčních karet**: Vyndejte z balíčku akčních karet kartu SONDA (PROBE) a důkladně jej zamíchejte. Kartu SONDA dejte naspod a celý balík následně umístěte lícem dolů do vyznačeného pole na herním plánu.
 4. **Připravte balíček kvantových událostí**: Vyndejte z balíčku karet kvantových událostí kartu "Kvantová kombinatorika" a ostatní karty důkladně promíchejte. Do vyznačeného pole na herním plánu odložte 3 karty událostí lícem dolů. Následně přidejte kartu "Kvantová kombinatorika" a na ni pak zbytek balíčku karet kvantových událostí.
 5. **Nastavte startovní riziko odhalení**: Umístěte žeton na stupnici odhalení na herním plánu. Pro snadnou hru doporučujeme zvolit riziko odhalení 1 nebo 2, pro větší výzvu a zkušenější hráče doporučujeme riziko odhalení 3 nebo 4. Upozornění: Pokud během hry dosáhne riziko odhalení stupně (X), prohráli jste a hra končí.
 6. **Určete začínajícího hráče**: Oba hráči hodí Entaglion kostkou (osmistěnka). Hráč s vyšším číslem začíná hru. (Opakujte hod v případě remízy.)
