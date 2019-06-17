@@ -16,14 +16,14 @@ http://ibm.biz/entanglion
 
 Blahopřejeme, stal jste se novým kapitánem mezigalaktické dopravní společnosti! Nyní máte konečně příležitost vše zdokonalit.
 
-Už léta vás fascinují pověsti o dávno zapomentué kvantové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohl by váš lodní počítač během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu však jeden problém: autoři původního kvantového počítače se obávali jeho zneužití, a tak ho rozebrali a jeho součásti schovali na různých planetách příšně střežené galaxie Entaglion.
+Už léta vás fascinují pověsti o dávno zapomenuté kvantové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohl by váš lodní počítač během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu však jeden problém: autoři původního kvantového počítače se obávali jeho zneužití, a tak ho rozebrali a jeho součásti schovali na různých planetách přísně střežené galaxie Entaglion.
 
 Pokud chcete tuto výjimečnou technologii získat, musíte svoji loď nepozorovaně navigovat po planetách Entaglionu a posbírat na nich jednotlivé součásti kvantového počítače. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače jsou tyto motory trochu... nepředvídatelné.
 
 Jdete do toho?
 
 # Cíl hry
-Entanglion je desková hra pro dva hráče, kteří spolu musejí spolupracovat. Cílem hry je znovu postavit dávno zapomenutý kvantový počítač. Společně s vaším spoluhráčem musíte probádat tři galaxie kvantového vesmíru - Centarius, Superious a Entaglion - a získat všech osm součástí kvantového počítače. Nesmí vás ale odhalit obranné mechanismy, které mají za úkol kvantové součásti střežit!
+Entanglion je desková hra pro dva hráče, kteří spolu musejí spolupracovat. Cílem hry je znovu postavit dávno zapomenutý kvantový počítač. Společně s vaším spoluhráčem musíte probádat tři galaxie kvantového vesmíru - Centarius, Superius a Entaglion - a získat všech osm součástí kvantového počítače. Nesmí vás ale odhalit obranné mechanismy, které mají za úkol kvantové součásti střežit!
 
 # Principy hry
 Hra Entaglion byla navržena tak, aby hráčům představila a přiblížila základní principy kvantových počítačů:
@@ -45,7 +45,7 @@ Další vazby Entaglionu ke skutečným kvantovým počítačům jsou diskutová
 4. **Připravte balíček kvantových událostí**: Vyndejte z balíčku karet kvantových událostí kartu "Kvantová kombinatorika" a ostatní karty důkladně promíchejte. Do vyznačeného pole na herním plánu odložte 3 karty událostí lícem dolů. Následně přidejte kartu "Kvantová kombinatorika" a na ni pak zbytek balíčku karet kvantových událostí.
 5. **Nastavte startovní riziko odhalení**: Umístěte žeton na stupnici odhalení na herním plánu. Pro snadnou hru doporučujeme zvolit riziko odhalení 1 nebo 2, pro větší výzvu a zkušenější hráče doporučujeme riziko odhalení 3 nebo 4. Upozornění: Pokud během hry dosáhne riziko odhalení stupně (X), prohráli jste a hra končí.
 6. **Určete začínajícího hráče**: Oba hráči hodí Entaglion kostkou (osmistěnka). Hráč s vyšším číslem začíná hru. (Opakujte hod v případě remízy.)
-7. **Určete startovní pozice kosmických lodí**: Oba hráči postupně hodí Centarius kostkou a dle výsledku na kostce umístí svou loď na herní plán v galaxii Centarius (padne-li 0, loď hráče jde na pole <span style="color: purple"> NULA </span>, padne-li 1, lodď hráče jde na pole <span style="color: purple"> JEDNA</span>). Tento proces simuluje počáteční nastavení kvantového systému.
+7. **Určete startovní pozice kosmických lodí**: Oba hráči postupně hodí Centarius kostkou a dle výsledku na kostce umístí svou loď na herní plán v galaxii Centarius (padne-li 0, loď hráče jde na pole <span style="color: purple"> NULA</span>, padne-li 1, loď hráče jde na pole <span style="color: purple"> JEDNA</span>). Tento proces simuluje počáteční nastavení kvantového systému.
 8. **Lízněte si akční karty**: Oba hráči si líznou 3 akční karty, které položí před sebe viditelně lícem nahoru. Když hráč použije některou ze svých akčních karet, vždy si lízne novou.
 
 <img src="../images/setup.png" width="100%">
@@ -85,7 +85,7 @@ Kosmické lodě se po kvantovém vesmíru pohybují pomocí akčních karet pře
 
 **H**. H slouží k přesunu mezi galaxiemi Centarius a Superius a dále po trasách v rámci galaxie Entaglion.
 
-**SWAP**. Mimo galaxii Entaglion slouží operace SWAP k okamžitému prohození pozic obou kosmických lodí. Uvnitř galaxie Entaglion se touto operací lodě přesouvají mezi pozicemi <span style="color: #facd4d"> OMEGA NULA </span> a <span style="color: #facd4d"> OMEGA TŘI </span>.
+**SWAP**. Mimo galaxii Entaglion slouží operace SWAP k okamžitému prohození pozic obou kosmických lodí. Uvnitř galaxie Entaglion se touto operací lodě přesouvají mezi pozicemi <span style="color: #facd4d"> OMEGA NULA </span> a <span style="color: #facd4d"> OMEGA TŘI</span>.
 
 **CNOT**. CNOT slouží ke vstupu do galaxie Entaglion a následné navigaci uvnitř. V galaxii Centarius dále prohazuje pozice obou lodí, ale pouze v případě, že se loď spoluhráče nachází na pozici <span style="color: purple"> JEDNA</span>.
 
@@ -111,11 +111,11 @@ Pro vstup do galaxie Entaglion se jedna z lodí musí nacházet v galaxii Centar
 Vedoucí loď (hrající akci CNOT) | Druhá loď | Výsledná destinace
 --- | --- | ---
 <span style="color: purple"> NULA </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PHI PLUS </span>
-<span style="color: purple"> NULA </span> | <span style="color: green"> MÍNUS </span> | <span style="color: #facd4d"> PHI MÍNUS </span>
+<span style="color: purple"> NULA </span> | <span style="color: green"> MINUS </span> | <span style="color: #facd4d"> PHI MINUS </span>
 <span style="color: purple"> JEDNA </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PSI PLUS </span>
-<span style="color: purple"> JEDNA </span> | <span style="color: green"> MÍNUS </span> | <span style="color: #facd4d"> PSI MÍNUS </span>
+<span style="color: purple"> JEDNA </span> | <span style="color: green"> MINUS </span> | <span style="color: #facd4d"> PSI MINUS </span>
 
-Dobrovolné opuštění galaxie Entaglion probíhá obdobně, nacházejí-li se lodě na některé z následujících pozic: <span style="color: #facd4d"> PHI PLUS </span>, <span style="color: #facd4d"> PHI MÍNUS </span>, <span style="color: #facd4d"> PSI PLUS </span> nebo <span style="color: #facd4d"> PSI MÍNUS</span>. Hráč, který je na tahu, zahraje akční kartu CNOT, a jeho loď se vrací do galaxie Centarius. Loď spoluhráče se vrací do galaxie Superius. Obě lodě se přitom pohybují po trase vytyčené šedými čarami.
+Dobrovolné opuštění galaxie Entaglion probíhá obdobně, nacházejí-li se lodě na některé z následujících pozic: <span style="color: #facd4d"> PHI PLUS</span>, <span style="color: #facd4d"> PHI MINUS</span>, <span style="color: #facd4d"> PSI PLUS</span> nebo <span style="color: #facd4d"> PSI MÍNUS</span>. Hráč, který je na tahu, zahraje akční kartu CNOT, a jeho loď se vrací do galaxie Centarius. Loď spoluhráče se vrací do galaxie Superius. Obě lodě se přitom pohybují po trase vytyčené šedými čarami.
 
 Příklad: Loď Rubicon obíhá planetu <span style="color: purple"> NULA </span> a loď Mercurial obíhá planetu <span style="color: green"> PLUS</span>. Jestliže Rubicon zahraje akci CNOT, obě lodě se podle šedých čar přesunou na pozici <span style="color: #facd4d"> PHI PLUS</span>.
 
@@ -128,7 +128,7 @@ Na pozici <span style="color: #facd4d"> PHI PLUS</span>, jestliže Rubicon zahra
 <img src="../images/entering_entanglion2.png" width="40%">
 
 # Riziko odhalení
-Riziko odhalení určuje obtížnost překonání planetární obrany (orbitální a pozemní). Pozice žetonu značí aktuální nastavení tohoto rizka. Pokud se hráčova loď nevyhne orbitální nebo pozemní obraně, zvyšuje se riziko odhalení (žeton se posune o jednu pozici vpřed). Tím je v následujících tazích snazší pro planetární obranu odhalit hráčovu loď. Hra končí, pokud riziko odhalení dosáhne poslední pozice (označené písmenem X). 
+Riziko odhalení určuje obtížnost překonání planetární obrany (orbitální a pozemní). Pozice žetonu značí aktuální nastavení tohoto rizika. Pokud se hráčova loď nevyhne orbitální nebo pozemní obraně, zvyšuje se riziko odhalení (žeton se posune o jednu pozici vpřed). Tím je v následujících tazích snazší pro planetární obranu odhalit hráčovu loď. Hra končí, pokud riziko odhalení dosáhne poslední pozice (označené písmenem X). 
 
 > Riziko odhalení se posune o jednu pozici vpřed, kdykoliv je hráč odhalen orbitální nebo pozemní obranou.
 
@@ -162,7 +162,7 @@ Hráči mají za úkol posbírat všechny součásti kvantového počítače a t
 
 Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbitu planety střežící součást kvantového počítače, můžete v dalším tahu vyslat misi na povrch planety a pokusit se součást získat. Součásti kvantového počítače jsou střeženy pozemní obranou, kterou musíte, stejně jako orbitální obranu, obejít. 
 
-**Jak získat součást kvantového počíatče:** Hoďte Entanglion kostkou (osmistěnka). Pokud je hod vyšší než aktuální riziko odhalení, získáváte součást kvantového počítače a můžete ji umístit na svoji loď. V opačném případě byla vaše mise odhalena pozemní obranou; zvyšte riziko odhalení o jednu pozici.
+**Jak získat součást kvantového počítače:** Hoďte Entanglion kostkou (osmistěnka). Pokud je hod vyšší než aktuální riziko odhalení, získáváte součást kvantového počítače a můžete ji umístit na svoji loď. V opačném případě byla vaše mise odhalena pozemní obranou; zvyšte riziko odhalení o jednu pozici.
 
 > Pokud je mise s cílem získat součást kvantového počítače neúspěšná, zůstávají obě lodě na orbitě planety. Pokud v dalším tahu zůstanou lodě na téže planetě, nemusí házet kostkou proti orbitální obraně. 
 
@@ -191,12 +191,12 @@ Připravte hrací desku, jak je popsáno v sekci "Příprava hry". V našem uká
 
 <img src="../images/first2.png" width="40%">
 
-2. Rubicon hraje akční kartu CNOT, kterou přesouvá obě lodě na <span style="color: #facd4d"> PHI PLUS </span>. Dolízne si akční kartu H. Po přesunu na planetu v galaxii Entanglion musí Rubicon hodit Entanglion kostkou proti orbitální obraně. Protože je riziko odhalení na pozici 1, musí Rubicon hodit číslo 2 a vyšší. Rubicon hodí 3 a lodě se úspěšně vyhnou orbitální obraně!
+2. Rubicon hraje akční kartu CNOT, kterou přesouvá obě lodě na <span style="color: #facd4d"> PHI PLUS</span>. Dolízne si akční kartu H. Po přesunu na planetu v galaxii Entanglion musí Rubicon hodit Entanglion kostkou proti orbitální obraně. Protože je riziko odhalení na pozici 1, musí Rubicon hodit číslo 2 a vyšší. Rubicon hodí 3 a lodě se úspěšně vyhnou orbitální obraně!
 
 <img src="../images/first3.png" width="40%">
 <img src="../images/first_detection.png" width="40%">
 
-3. Mercurial se rozhodne vyslat misi pro získání součásti "Kvantové operace", která je ukryta na <span style="color: #facd4d"> PHI PLUS </span>. Mercurial hodí číslo 6, které je vyšší než riziko odhalení (1) a úspěšně získává součást kvantového počítače.
+3. Mercurial se rozhodne vyslat misi pro získání součásti "Kvantové operace", která je ukryta na <span style="color: #facd4d"> PHI PLUS</span>. Mercurial hodí číslo 6, které je vyšší než riziko odhalení (1) a úspěšně získává součást kvantového počítače.
 
 <img src="../images/first4.png" width="40%">
 
