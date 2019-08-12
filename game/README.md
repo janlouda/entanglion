@@ -242,7 +242,25 @@ Součásti kvantového počítače ukryté v galaxii Entanglion reprezentují r�
 - **Magnetické štíty**. Qubity jsou extrémně citlivé na náhodná magnetická pole. Magnetické štíty zajišťují, aby qubity  byly chráněny před externími magnetickými vlivy. 
 
 ## Karty kvantových událostí
-Event cards add fun, random elements to the game. Some event cards are named after people who made significant contributions to the field of quantum physics and quantum information science, such as Werner Heisenberg and Erwin Schrödinger. One event card is extra special, named after IBM researcher Charles Bennett, one of the founders of quantum information theory and a key contributor to the discovery of the quantum teleportation effect. Other event cards are named after quantum effects such as quantum tunneling, bit flip errors, wave function collapsing, and Einstein’s "spooky action at a distance." We encourage avid players to research these people and topics to learn more about the physics of quantum information!
+Karty událostí přidávají do hry zábavu a prvek náhody. Některé karty jsou pojmenované po lidech, kteří měli významný přínos pro kvantovou fyziku a informatiku, jako např. Werner Heisenberg a Erwin Schrödinger. Jedna z karet je speciálně pojmenovaná po vědci Charlesovi Bennettovi, jednom ze zakladatelů kvantové informační teorie a jeho klíčovému přispění k objevení kvantového teleportačního efektu. Další karty jsou pojmenovány podle různých kvantových jevů, jako např. kvantový tunelový jev, bit flip error, kolaps vlnové funkce a Einsteinovo "záhadné působení na dálku". 
+
+
+U vybraných karet přinášíme bližší informace v následujících odstavcích:
+
+**Bennett**
+
+Charles Henry Bennett (narozený 1943) je fyzik a teoretický informatik, který pracoval ve výzkumných laboratoří IBM. Pomohl svým výzkumem objasnit vzájemný vztah mezi fyzikou a informacemi, zejména v oblasti kvantových počítačů. S Gillesem Brassardem objevil koncept kvantové kryptografie a je jedním ze zakladatelů moderní teorie kvantových informací (viz Bennettovy čtyři zákony kvantových informací). V roce 1993 objevili Bennett a Brassard ve spolupráci s ostatními „kvantovou teleportaci“ - přenos stavu mezi částicemi na velkou vzdálenost. Nejedná se o přenos částice jako takové, jak by se z názvu mohlo zdát, ale skutečně jen o přenos kvantového stavu (tj. skupinu pozorovatelných veličin, jejichž prostřednictvím jsou vlastnosti daného systému nebo částice plně určeny). Částice, mezi kterými dochází k přenosu, musí být kvantově provázané.
+
+**Heisenberg**
+
+Werner Karl Heisenberg (5. prosince 1901 Würzburg – 1. února 1976 Mnichov) byl německý teoretický fyzik, matematik a filozof, jemuž byla za podíl na objevu kvantové mechaniky v roce 1932 udělena Nobelova cena za fyziku. Heisenberg jako první sestavil matematický model atomu pomocí maticového výpočtu. Společně s Maxem Bornem a Pascualem Jordanem je zakladatelem tzv. maticové kvantové mechaniky – popisu atomu v relativistickém pojetí fyziky (tzv. Heisenbergova-Bornova-Jordanova mechanika).Jeho nejznámějším a nejproslulejším objevem je slavný tzv. Heisenbergův princip neurčitosti. Ten říká, že nemohu přesně změřit hybnost i polohu  částice. Měření je totiž zásahem do systému, přičemž je některá veličina nepatrně změněna. Chceme-li například velmi přesně změřit polohu elektronu, musíme na něj „posvítit“, tj. namířit na něj proud energetických fotonů, které dopadem a odrazem změní jeho polohu a hybnost tím více, čím lépe si „posvítíme“.
+
+**Tunelový jev**
+
+Tunelový jev (též kvantové tunelování) je kvantový jev známý z kvantové mechaniky, při němž částice porušuje principy klasické fyziky tím, že prochází potenciálovou bariérou, která je vyšší než energie částice. Pokud je energie částice menší než výška bariéry, pak by se podle klasické mechaniky měla částice od takové bariéry odrazit zpět. Klasická mechanika neumožňuje průchod takové částice skrz bariéru. Kvantová mechanika však částici umožňuje, aby s určitou pravděpodobností prošla skrz potenciálovou bariéru (odtud také pochází označení tunelování).
+
+
+_Zvídavým hráčům doporučujeme tyto osoby a oblasti více prozkoumat a objevit další kouzelná zákoutí kvantové fyziky!_
 
 <img src="../images/events.png" width="100%">
 
