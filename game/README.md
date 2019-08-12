@@ -115,7 +115,7 @@ Vedoucí loď (hrající akci CNOT) | Druhá loď | Výsledná destinace
 <span style="color: purple"> JEDNA </span> | <span style="color: green"> PLUS </span> | <span style="color: #facd4d"> PSI PLUS </span>
 <span style="color: purple"> JEDNA </span> | <span style="color: green"> MINUS </span> | <span style="color: #facd4d"> PSI MINUS </span>
 
-Dobrovolné opuštění galaxie Entaglion probíhá obdobně, nacházejí-li se lodě na některé z následujících pozic: <span style="color: #facd4d"> PHI PLUS</span>, <span style="color: #facd4d"> PHI MINUS</span>, <span style="color: #facd4d"> PSI PLUS</span> nebo <span style="color: #facd4d"> PSI MÍNUS</span>. Hráč, který je na tahu, zahraje akční kartu CNOT, a jeho loď se vrací do galaxie Centarius. Loď spoluhráče se vrací do galaxie Superius. Obě lodě se přitom pohybují po trase vytyčené šedými čarami.
+Dobrovolné opuštění galaxie Entaglion probíhá obdobně, nacházejí-li se lodě na některé z následujících pozic: <span style="color: #facd4d"> PHI PLUS</span>, <span style="color: #facd4d"> PHI MINUS</span>, <span style="color: #facd4d"> PSI PLUS</span> nebo <span style="color: #facd4d"> PSI MINUS</span>. Hráč, který je na tahu, zahraje akční kartu CNOT, a jeho loď se vrací do galaxie Centarius. Loď spoluhráče se vrací do galaxie Superius. Obě lodě se přitom pohybují po trase vytyčené šedými čarami.
 
 Příklad: Loď Rubicon obíhá planetu <span style="color: purple"> NULA </span> a loď Mercurial obíhá planetu <span style="color: green"> PLUS</span>. Jestliže Rubicon zahraje akci CNOT, obě lodě se podle šedých čar přesunou na pozici <span style="color: #facd4d"> PHI PLUS</span>.
 
@@ -211,7 +211,8 @@ Rubicon hodí Entanglion kostkou proti orbitální obraně planety OMEGA DVĚ. P
 
 Hra pokračuje, dokud Rubicon a Mercurial v Entanglionu neposbírají všechny součásti kvantového počítače nebo dokud riziko odhalení nedosáhne pozice X.
 
-# How Entanglion relates to quantum computing
+# Jak souvisí hra Entanglion s kvantovým počítačem
+Entanglion 
 Entanglion models several aspects of a 2-qubit quantum computer. Specifically, the two spaceships represent two qubits, and each planet in each galaxy represents a different state of those qubits. Engine cards represent the quantum gates used to transition the qubits into different states.
 
 The Centarious galaxy represents the classical states of 0 and 1, written in "ket notation" as ⎢0 〉(<span style="color: purple"> ZERO </span>) and ⎢1 〉(<span style="color: purple"> ONE </span>). The Superious galaxy represents states of quantum superposition, known as ⎢+ 〉(<span style="color: green"> PLUS </span>) and ⎢- 〉(<span style="color: green"> MINUS </span>). The Entanglion galaxy represents states of entanglement. Four of the entangled states, ⎢Ψ+ 〉(<span style="color: #facd4d"> PSI PLUS </span>), ⎢Ψ- 〉(<span style="color: #facd4d"> PSI MINUS </span>), ⎢Φ+ 〉(<span style="color: #facd4d"> PHI PLUS </span>), and ⎢Φ- 〉(<span style="color: #facd4d"> PHI MINUS </span>), are known as the [Bell states](https://en.wikipedia.org/wiki/Bell_state). The other entangled states, which we have labeled ⎢ω0 〉(<span style="color: #facd4d"> OMEGA ZERO </span>) through ⎢ω3 〉(<span style="color: #facd4d"> OMEGA THREE </span>), are additional states that are achievable through the combined operation of the X, H, SWAP, and CNOT gates.
