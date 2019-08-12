@@ -214,26 +214,25 @@ Hra pokračuje, dokud Rubicon a Mercurial v Entanglionu neposbírají všechny s
 # Jak souvisí hra Entanglion s kvantovým počítačem
 Entanglion modekuje několik aspektů dvou qubitového kvantového počítače. Dvě rakety reprezentují dva qubity a každá z planet v Entanglionu představuje jiný stav, ve kterém se tyto qubity nachází. Akční karty představují tzv. kvantová hradla, která se používají k fyzické manipulaci qubitů do různých stavů - tzn. operace s qubity. 
 
-Entanglion models several aspects of a 2-qubit quantum computer. Specifically, the two spaceships represent two qubits, and each planet in each galaxy represents a different state of those qubits. Engine cards represent the quantum gates used to transition the qubits into different states.
 
-Galaxie Centarious galaxy represents the classical states of 0 and 1, written in "ket notation" as ⎢0 〉(<span style="color: purple"> ZERO </span>) and ⎢1 〉(<span style="color: purple"> ONE </span>). The Superious galaxy represents states of quantum superposition, known as ⎢+ 〉(<span style="color: green"> PLUS </span>) and ⎢- 〉(<span style="color: green"> MINUS </span>). The Entanglion galaxy represents states of entanglement. Four of the entangled states, ⎢Ψ+ 〉(<span style="color: #facd4d"> PSI PLUS </span>), ⎢Ψ- 〉(<span style="color: #facd4d"> PSI MINUS </span>), ⎢Φ+ 〉(<span style="color: #facd4d"> PHI PLUS </span>), and ⎢Φ- 〉(<span style="color: #facd4d"> PHI MINUS </span>), are known as the [Bell states](https://en.wikipedia.org/wiki/Bell_state). The other entangled states, which we have labeled ⎢ω0 〉(<span style="color: #facd4d"> OMEGA ZERO </span>) through ⎢ω3 〉(<span style="color: #facd4d"> OMEGA THREE </span>), are additional states that are achievable through the combined operation of the X, H, SWAP, and CNOT gates.
+Galaxie Centarious reprezentuje klasické stavy 0 a 1 zapsané v braketové symbolice (Diracova notace) jako |0 〉(<span style="color: purple"> NULA </span>) a ⎢1 〉(<span style="color: purple"> JEDNA </span>). Galaxie Superius reprezentuje stav kvantové superpozice, známé jako  ⎢+ 〉(<span style="color: green"> PLUS </span>) a ⎢- 〉(<span style="color: green"> MINUS </span>). Galaxie Entanglion reprezentuje stavy kvantového provázání. Čtyři stavy kvantového provázání, známé jako [Bellovy stavy](https://en.wikipedia.org/wiki/Bell_state) jsou ⎢Ψ+ 〉(<span style="color: #facd4d"> PSI PLUS </span>), ⎢Ψ- 〉(<span style="color: #facd4d"> PSI MINUS </span>), ⎢Φ+ 〉(<span style="color: #facd4d"> PHI PLUS </span>), and ⎢Φ- 〉(<span style="color: #facd4d"> PHI MINUS </span>). Další stavy kvantového provázání označované jako ⎢ω0 〉(<span style="color: #facd4d"> OMEGA NULA </span>) až ⎢ω3 〉(<span style="color: #facd4d"> OMEGA TŘI </span>) jsou dodatečné stavy, kterých lze dosáhnout kombinujeme-li operace X, H, SWAP, a CNOT.
 
-The requirement that both ships must move together within Entanglion is a result of the fact that for entangled states, the state of the system is more complex than a simple combination of the states of the individual qubits. This is one of the main ways in which quantum mechanics differs from classical physics.
+Pravidlo, že obě lodě se v rámci galaxie Entaglion musí pohybovat spolu je důsledkem faktu, že pro provázané stavy je stav systému komplexnější než jen jednoduchá kombinace stavů individuálních qubitů. Je to jedna ze stránek, kterými se liší kvantová mechanika od klasické fyziky.
 
-## Engine cards
-The engine cards represent _some_ of the different kinds of quantum logic gates used by quantum computers.
+## Akční karty
+Akční karty představují _některé_ z kvantových logických operací, které se pomocí kvantových hradel používají v kvantovém  počítači.
 
 <img src="../images/engine_cards.png" width="60%">
 
-- **X**. The X gate flips the value of a qubit. It is also known as the bit flip gate.
-- **SWAP**. SWAP exchanges the values of the two qubits.
-- **CNOT**. CNOT stands for "Controlled Not." It needs two qubits to work: one qubit is designated the "target," which gets flipped if the other qubit, known as the "control," has a value of 1.
-- **H**. The Hadamard gate is used to create or collapse superposition. It is one of the most important gates in quantum computing.
+- **X**. Operace X otáčí hodnotu qubitu. Je také známé jako Pauliho-x hradlo.
+- **SWAP**. SWAP prohodí hodnoty u dvou qubitů.
+- **CNOT**. CNOT je zkratkou pro "Controlled Not" (kontrolované NOT). Potřebuje dva qubity: jeden qubit je určen jako "cílový" a je pžřevrácen vždy, když druhý qubit, který je určen jako "kontrolní", má hodnotu 1. 
+- **H**. Operace H - Hadamardovo hradlo se používá k vytvoření nebo kolapsu superpozice. Jedná se o jednu z nejdůležitějších operací v kvantových výpočtech.
 
-## Quantum components
-The quantum components in Entanglion represent different physical or logical components needed to construct an actual quantum computer.
+## Součásti kvantového počítače
+Součásti kvantového počítače ukryté v galaxii Entanglion reprezentují různé fyzické nebo logické komponenty, ze kterých je sestaven reálný kvantový počítač. 
 
-- **Physical Qubits**. Much like how classical computer processors are implemented via hardware transistors, quantum processors are implemented via hardware qubits. There are a [number of different ways](https://en.wikipedia.org/wiki/Qubit#Physical_representation) scientists are creating physical qubits, including Josephson junctions, ion traps, and quantum dots.
+- **Fyzické qubity**. Much like how classical computer processors are implemented via hardware transistors, quantum processors are implemented via hardware qubits. There are a [number of different ways](https://en.wikipedia.org/wiki/Qubit#Physical_representation) scientists are creating physical qubits, including Josephson junctions, ion traps, and quantum dots.
 - **Qubit Interconnect**. Qubits must be physically connected to each other in order to become entangled with one another.
 - **Dilution Refrigerator**. Physical qubits must be kept at very cold temperatures – colder even than outer space – in order to maintain their coherence. Dilution refrigerators are able to cool physical qubits to temperatures as low as 2 millikelvin.
 - **Quantum Gates**. In classical computing, logical gates such as AND, OR, NOT, and NAND are combined to create higher-order computation. In quantum computing, quantum gates such as X, CNOT, SWAP, and H are used for computation.
