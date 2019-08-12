@@ -99,7 +99,7 @@ Kosmické lodě se po kvantovém vesmíru pohybují pomocí akčních karet pře
 Hráč, který je na tahu, musí provést právě jednu z následujících akcí:
 
 1. **Přesun**. Zahrajte akční kartu a je-li to možné, přesuňte svou loď (pokud se nacházíte v galaxii Entaglion, přesuňte obě lodě) na novou pozici. Ihned si lízněte novou kartu z balíčku akčních karet.
-2. **Výměna**. Odhoďte z ruky libovolnou akční kartu na hromádku zahraných karet a lízněte si kartu jinou.
+2. **Výměna**. Odložte z ruky libovolnou akční kartu na hromádku zahraných karet a lízněte si kartu jinou.
 3. **Mise**. Nachází-li se na vaší pozici součást kvantového počítače, můžete se pokusit ji získat - hoďte Entaglion kostkou.
 4. **Událost**. Máte-li v ruce kartu kvantové události, můžete ji zahrát.
 
@@ -171,7 +171,7 @@ Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbi
 # Kvantové události
 Kvantové motory mohou být občas nepředvídatelné! Pokud odehrané akční karty zaplní všechny pozice v části "Ovládání kvantových motorů", dojde ke kvantové události. Na konci kola si hráč lízne kartu kvantové události a zahraje ji, a to i v případě, že si již líznul kartu kvantové události během tahu (tj. lodě byly odhaleny orbitální obranou).  
 
-**Dojde-li ke kvantové události:** Lízněte si kartu kvantové události a proveďte akci stanovenou na kartě. Odstraňte všechny akční karty z části "Ovládání kvantových motorů" a přesuňte je do odhozených karet. Akční karty hráč neodstraňuje v případě, že dojde ke kvantové události v důsledku odhalení orbitální obranou.
+**Dojde-li ke kvantové události:** Lízněte si kartu kvantové události a proveďte akci stanovenou na kartě. Odstraňte všechny akční karty z části "Ovládání kvantových motorů" a přesuňte je do odložených karet. Akční karty hráč neodstraňuje v případě, že dojde ke kvantové události v důsledku odhalení orbitální obranou.
 
 > Pokud je zahrána karta "Kvantová kombinatorika", promíchejte karty kvantových událostí tak, jak je popsáno v části "Příprava hry".
 
