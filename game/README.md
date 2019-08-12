@@ -232,7 +232,7 @@ Akční karty představují _některé_ z kvantových logických operací, kter�
 ## Součásti kvantového počítače
 Součásti kvantového počítače ukryté v galaxii Entanglion reprezentují různé fyzické nebo logické komponenty, ze kterých je sestaven reálný kvantový počítač. 
 
-- **Fyzické qubity**. Tak jako v klasických počítačích fungují procesory na bázi hardwarových transistrů, tak v kvantové procesory jsou postaveny na bázi hardwarových qubitů. Existuje [několik různých způsobů](https://en.wikipedia.org/wiki/Qubit#Physical_representation) pomocí kterých vědci vytvářejí fyzické qubity, jako např. Josephsonův jev, iontová past nebo kvantové tečky (quantum dots). 
+- **Fyzické qubity**. Tak jako v klasických počítačích fungují procesory na bázi hardwarových transistorů, tak v kvantové procesory jsou postaveny na bázi hardwarových qubitů. Existuje [několik různých způsobů](https://en.wikipedia.org/wiki/Qubit#Physical_representation) pomocí kterých vědci vytvářejí fyzické qubity, jako např. Josephsonův jev, iontová past nebo kvantové tečky (quantum dots). 
 
 - **Propojení qubitů**. Qubity musí být navzájem fyzicky propojené, aby mohlo vzniknout jejich kvantové provázání. 
 - **Chladící jednotka**. Fyzické qubity se můsí udržovat ve velmi nízkých teplotách - nižších než jsou teploty v kosmu - aby si udržely svoji spojitost. Speciální chlazení na bázi tekutého helia nebo vodíku (tzv. dilution refrigirator) dokáže chladit fyzické qubity až na 2 milikelviny (cca -273 °C).
