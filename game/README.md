@@ -269,10 +269,11 @@ _Zvídavým hráčům doporučujeme tyto osoby a oblasti více prozkoumat a obje
 <img src="../images/events.png" width="100%">
 
 ## Obrany, měření a chyba
-The process of encountering orbital defenses when navigating the Entanglion galaxy is akin to performing a classical measurement (also known as a Z measurement) on the quantum state. Additionally, the act of retrieving a quantum component is akin to performing an entanglement measurement, also known as a [Bell test](https://en.wikipedia.org/wiki/Bell_test_experiments). Sometimes, noise in the quantum system prevents us from seeing a reliable measurement. We call this a readout error. The effects of noise and errors are modeled via the detection rate.
+Interakce s orbitální obranou v galaxii Entanglion je připodobněním klasického měření (někdy nazývané měření Z) kvantového stavu. Interalce s pozemní obranou při získávání součásti kvantového počítače představuje měření provázanosti, známé také jako [Bellův test](https://en.wikipedia.org/wiki/Bell_test_experiments). Šum v kvantovém systému někdy znemožní spolehlivá měření - nastane chyba vyčtení hodnot. Efekty zašumění a chyb jsou ve hře představovány mírou rizika odhalení.
 
-## Additional resources
-We recommend a few resources for learning more about quantum computing.
+
+## Dodatečné zdroje
+Níže doporučujeme několik zajímavých zdrpjů o kvantových počítačích.
 
 - [IBM Q Experience Beginner's Guide](http://ibm.biz/qx-guide) by IBM Research
 - [Q is for Quantum](http://a.co/iJbiNS8) by T. Rudolph
