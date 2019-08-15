@@ -1,16 +1,16 @@
 # Errata
-This page clarifies rules or game mechanics that may be unclear from their descriptions in the distributed game materials.
+Tato stránka objasňuje pravidla, která nejsou v přiloženém návodu hry jednoznačna. 
 
-> Got a question? Please [open an issue](../../../issues) and let us know!
+> Máte dotaz? Pak prosím [založte nový problém](../../../issues) a dejte nám vědět!
 
-## What order should I count planets in when Spooky Action is played?
-Count in the same fashion as the Heisenberg card: begin at OMEGA ZERO and count in a clockwise fashion. A die roll of 1 corresponds to OMEGA ONE (one planet away), and a die roll of 8 corresponds to OMEGA ZERO.
+## V jakém pořadí  mám počítat planety při zahrání karty "Záhadná interakce na dálku"?
+Počítáte obdobně jako u karty Heisenberg: začínáte na planetě OMEGA NULA a počítáte podle směru hodinových ručiček. Počítáte pouze volné planety (kde není umístěna žádná součást kvantového počítače) od OMEGA NULA. Např. OMEGA NULA a OMEGA JEDNA nejsou obsazeny. Pokud hodíte číslo jedna umístíte žeton na OMEGA JEDNA.
 
-## What happens when PROBE is drawn while playing The Mechanic?
-The PROBE takes effect instantly. Perform the defense check to see if your ships evaded the Entanglion probe, and remember that you need to roll a 4 or greater after accounting for the effects of your quantum components. Then, after resolving the PROBE, draw a replacement engine card and continue performing the actions of The Mechanic.
+## Co se stane, pokud je líznuta akční karta "SONDA" při zahrání karty "Mechanik"? 
+Akční karta SONDA má okamžitý účinek. Tj. ihned po líznutí akční karty SONDA hoďte kostkou proti obraně a zjistěte, zda se vašim lodím podařilo sondě vyhnout. Teprve poté si lízněte náhradní kartu za SONDU a pokračujte podle instrukcí na kartě "Mechanik".
 
-## When our ships are on PSI PLUS, PSI MINUS, PHI PLUS, or PHI MINUS, and a CNOT is played, where do the ships go?
-When your ships are on one of the planets listed above (known as the Bell States in quantum parlence) and a CNOT is played, the ship on which the CNOT was played returns to Centarious and the other ship returns to Superious. For example, if both ships are on PHI PLUS and a CNOT is played on Mercurial (the blue ship), Mercurial will go to ZERO and Rubicon will go to PLUS.
+## Co se stane, pokud na některé z planet PSI PLUS, PSI MINUS, PHI PLUS nebo PHI MINUS zahraju akční kartu CNOT?
+Pokud jsou lodě na některé z výše uvedených planet (symbolizující tzv. Bellovy stavy v kvantovém světě) a hráč zahraje akční kartu CNOT, pak se loď, která zahrála tuto kartu vrací do galaxie Centarious a druhá loď do galaxie Superious (např. z pozice PHI PLUS se hráč, který zahrál akční kartu CNOT přesune na Centarious NULA a druhý hráč na Superious PLUS). 
 
-## How many cards can I play with The Mechanic?
-The card text says "play up to two of them," which means you can play zero, one, or two cards. The instruction to "Discard the unplayed engine card" should read "Discard the unplayed engine card(s)".
+## Kolik akčních karet mohu zahrát využitím karty "Mechanik"?
+Mohu zahrát žádnou, jednu nebo dvě karty, podle uvážení. Karty (nebo karta) které zbydou se odhodí.
