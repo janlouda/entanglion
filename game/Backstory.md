@@ -1,4 +1,4 @@
-# The Mysterious Fate of the Quantics
+# Záhadný osud Kvantiků
 
 Thousands of years ago, a people known as the Quantics dominated the known universe.
 
