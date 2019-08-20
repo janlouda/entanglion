@@ -260,7 +260,8 @@ Werner Karl Heisenberg (5. prosince 1901 Würzburg – 1. února 1976 Mnichov) b
 Tunelový jev (též kvantové tunelování) je kvantový jev známý z kvantové mechaniky, při němž částice porušuje principy klasické fyziky tím, že prochází potenciálovou bariérou, která je vyšší než energie částice. Pokud je energie částice menší než výška bariéry, pak by se podle klasické mechaniky měla částice od takové bariéry odrazit zpět. Klasická mechanika neumožňuje průchod takové částice skrz bariéru. Kvantová mechanika však částici umožňuje, aby s určitou pravděpodobností prošla skrz potenciálovou bariéru (odtud také pochází označení tunelování).
 
 **Schrödinger**
-
+Erwin Rudolf Josef Alexander Schrödinger (12. srpna 1887 Vídeň – 4. ledna 1961 Vídeň) byl rakouský teoretický fyzik, jeden ze zakladatelů kvantové mechaniky, který se proslavil především formulací nerelativistické vlnové rovnice pro popis hmotných částic, kterou na jeho počest nazýváme Schrödingerova rovnice. Popisuje časový a prostorový vývoj vlnové funkce částice, která se pohybuje v poli sil. Tato rovnice má v kvantové mechanice stejné postavení jako druhý Newtonův zákon v klasické mechanice.
+Schrödingerova kočka je myšlenkový experiment, který roku 1935 formuloval Erwin Schrödinger, Podle tohoto experimentu může být kočka současně živá i mrtvá, ve stavu kvantové superpozice.
 
 **Záhadná interakce na dálku**
 In quantum physics, entangled particles remain connected so that actions performed on one affect the other, even when separated by great distances. The phenomenon so riled Albert Einstein he called it "spooky action at a distance." 
