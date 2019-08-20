@@ -1,30 +1,31 @@
 # Entanglion
 
-> A game by IBM Research
+> z dílny IBM Research
 
-**2 PLAYERS | AGES 14 & UP | 45 MINUTES**
+**2 HRÁČI | VĚK 14 + | 45 MINUT**
 
-[Entanglion](http://ibm.biz/entanglion) awaits your space navigation skills and strategic planning to explore a new galaxy and reconstruct an ancient quantum computer. [Entanglion](http://ibm.biz/entanglion) is a cooperative board game designed for two players. Learn about quantum computing as you work together with your teammate to navigate the three galaxies of the quantum universe, avoid detection by the defense mechanisms left behind by the ancients, and rebuild the quantum computer.
+[Entanglion](http://ibm.biz/entanglion) prověří vaše kosmické navigační schopnosti a strategické myšlení. Prozkoumejte novou galaxii a znovu postavte zapomenutý kvantový počítač. [Entanglion](http://ibm.biz/entanglion) je desková hra pro dva hráče, kteří spolu musejí spolupracovat. Společně se spoluhráčem se zorientujte v třech galaxiích kvantového vesmíru, vyhněte se obraným mechanizmům dávné civilizace a znovu postavte kvantový počítač a seznamte se tak s jeho základními součástmi. 
 
-Think you’re up for the challenge?
+Jdete do toho?
 
 <img src="images/front.jpg" width="100%">
 
-## Welcome to the quantum universe, Captain!
-Congratulations, your captain has retired and left you in charge of his galactic shipping business! Now it's time to make some upgrades.
+## Vítejte v kvantovém světě, kapitáne!
+Už léta vás fascinují pověsti o dávno zapomenuté kvantové technologii, která může způsobit převrat v mezigalaktické nákladní přepravě. Pokud by tyto pověsti byly pravdivé, mohl by váš lodní počítač během pouhých několika sekund spočítat trasy v hyperprostoru. Je tu však jeden problém: autoři původního kvantového počítače se obávali jeho zneužití, a tak ho rozebrali a jeho součásti schovali na různých planetách přísně střežené galaxie Entaglion.
 
-For years, you've been obsessed with rumors of an ancient quantum computing technology that could revolutionize galactic cargo transport. If the rumors were true, it would allow your ships to calculate hyperspace paths in mere seconds! There's only one problem: the ancients dismantled their quantum computer out of fears that it was too powerful, and they left the components scattered across planets in the heavily-guarded Entanglion galaxy.
+Pokud chcete tuto výjimečnou technologii získat, musíte svoji loď nepozorovaně navigovat po planetách Entaglionu a posbírat na nich jednotlivé součásti kvantového počítače. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače jsou tyto motory trochu... nepředvídatelné.
 
-If you want to rebuild this incredible technology, you'll have to navigate your ships through the Entanglion galaxy and out-maneuver the defenses the ancients left behind. The good news is that your old captain left you enough money to outfit your ships with the quantum-powered engines you'll need to enter Entanglion. The bad news is that without a quantum computer to guide them, these engines can be a little… unpredictable.
 
-Want to hear more? Read the full Entanglion backstory, [The Mysterious Fate of the Quantics](game/Backstory.md).
+Chcete vědět více? Přečtěte si celý příběh Entanglionu - [Záhadný osud Kvantiků](game/Pribeh.md).
 
-## Obtaining Entanglion
-Entanglion is an open source project and you can make your own copy of the game by downloading and printing the assets. Alternatively, you can purchase a boxed copy of Entanglion at The Game Crafter.
+## Jak získat Entanglion
+Entanglion je open-source projekt, který vám umožňuje si vyrobit vlastní hru z volně dostupných zdrojových souborů.
+Hru můžete také zakoupit již hotovou v eshopu The Game Crafter.
 
-🚀 **[Download the Entanglion Printing & Assembly guide](assets)**
+🚀 **[Stáhněte si originální zdrojové soubory a návody](https://github.com/Entanglion/entanglion/tree/master/assets)**
+🚀 **[Stáhněte si českou verzi zdrojových souborů](zdrojáky)**
 
-💰 **[Purchase Entanglion at The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
+💰 **[Kupte si hru na The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
 
 <img src="images/board.png" width="85%" />
 
@@ -62,12 +63,13 @@ If you wish to cite Entanglion in academic work, please use the following citati
 } 
 ```
 
-# Contributors
-Entanglion was designed by IBM Research in New York.
+# Autoři
+Entanglion byl vyvinut v IBM Research v New Yorku.
 
-**Design**: [Maryam Ashoori](https://github.com/maryamashoori), [Justin D. Weisz](https://github.com/jweisz)<br />
-**Illustration**: [Aaron Cox](https://twitter.com/aarrccooxx), [Michael L. Kenney](https://www.linkedin.com/in/michaelleekenney/)<br />
-**Quantum Science**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), and [Lev S. Bishop](https://github.com/levbishop)<br />
+**Herní design**: [Maryam Ashoori](https://github.com/maryamashoori), [Justin D. Weisz](https://github.com/jweisz)<br />
+**Ilustrace**: [Aaron Cox](https://twitter.com/aarrccooxx), [Michael L. Kenney](https://www.linkedin.com/in/michaelleekenney/)<br />
+**Kvantová věda**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), and [Lev S. Bishop](https://github.com/levbishop)<br />
+**Překlad**: [Jan Louda](https://twitter.com/janlouda), Tomáš Feige, Magdalena Štachová<br />
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
