@@ -30,10 +30,10 @@ Hru můžete také zakoupit již hotovou v eshopu The Game Crafter.
 
 <img src="images/board.png" width="85%" />
 
-## Playing Entanglion
-Please read through the [rule book](game) to understand how to play Entanglion. The online version of the rule book should be considered authoritative, and we will document any errata we find in the printed guide on that page.
+## Jak se Entanglion hraje
+Přečtěte si [pravidla](pravidla) ke hře Entanglion. Online verze pravidel je nejaktuálnější, doplnění a vysvětlivky k tištěné verzi pravidel budou k dispozici ve složce [vysvětlivky](pravidla/Vysvetlivky.md).
 
-## Teaching Entanglion
+## Využití Entanglionu ve výuce
 If you are an educator who would like to use Entanglion as part of a learning curriculum, please [reach out to us](mailto:entanglion@us.ibm.com). We would love to hear about your plans for Entanglion and we may be able to support your efforts.
 
 ## Expanding Entanglion
