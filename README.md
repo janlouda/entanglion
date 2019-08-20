@@ -23,6 +23,7 @@ Entanglion je open-source projekt, který vám umožňuje si vyrobit vlastní hr
 Hru můžete také zakoupit již hotovou v eshopu The Game Crafter.
 
 🚀 **[Stáhněte si originální zdrojové soubory a návody](https://github.com/Entanglion/entanglion/tree/master/assets)**
+
 🚀 **[Stáhněte si českou verzi zdrojových souborů](zdrojáky)**
 
 💰 **[Kupte si hru na The Game Crafter](https://www.thegamecrafter.com/games/entanglion1)**
