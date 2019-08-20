@@ -8,7 +8,7 @@ Entaglion prověří vaše schopnosti strategického plánování a navigace. Va
 
 http://ibm.biz/entanglion
 
-> 🤔 Nerozumíte pravidlům? Navštivte [errata](Errata.md), kde najdete podrobné vysvětlení pravidel a také aktualizace hry.
+> 🤔 Nerozumíte pravidlům? Navštivte [vysvětlivky](Vysvetlivky.md), kde najdete podrobné vysvětlení pravidel a také aktualizace hry.
 
 # Vítejte v kvantovém světě, kapitáne!
 
@@ -154,7 +154,7 @@ Planety Entanglionu jsou chráněny orbitální obranou, která brání kosmick�
 > Pokud zahrajete akční kartu, která lodě nepřemístí na novou planetu v Entanglionu, nemusíte znovu házet proti orbitální obraně. 
 
 # Součásti kvantového počítače
-Hráči mají za úkol posbírat všechny součásti kvantového počítače a tím zvítězit. Jednotlivé součásti jsou popsány na každé z hracích desek kosmické lodi. Není nutné, aby všechny součásti posbírala pouze jedna loď. Každá součást kvantového počítače přináší kosmické lodi buď permanentní vylepšení nebo znevýhodnění, proto si vzájemně zvolte strategii pro sbírání součástí!
+Hráči mají za úkol posbírat všechny [součásti kvantového počítače](SoucastiPocitace.md) a tím zvítězit. Jednotlivé součásti jsou popsány na každé z hracích desek kosmické lodi. Není nutné, aby všechny součásti posbírala pouze jedna loď. Každá součást kvantového počítače přináší kosmické lodi buď permanentní vylepšení nebo znevýhodnění, proto si vzájemně zvolte strategii pro sbírání součástí!
 
 > Součásti kvantového počítače představují permanentní změnu kosmické lodi, a mění tak podmínky po zbytek hry.
 
@@ -169,7 +169,7 @@ Pokud se vám podařilo vyhnout se orbitální obraně a dostali jste se na orbi
 > Karta "Tunelový jev" vám umožní obejít pozemní obranu. Pokud v rámci tahu zahrajete tuto kartu, byla mise úspěšná a nemusíte házet kostkou proti pozemní obraně; získanou součást přesuňte na hrací desku své lodi. 
 
 # Kvantové události
-Kvantové motory mohou být občas nepředvídatelné! Pokud odehrané akční karty zaplní všechny pozice v části "Ovládání kvantových motorů", dojde ke kvantové události. Na konci kola si hráč lízne kartu kvantové události a zahraje ji, a to i v případě, že si již líznul kartu kvantové události během tahu (tj. lodě byly odhaleny orbitální obranou).  
+Kvantové motory mohou být občas nepředvídatelné! Pokud odehrané akční karty zaplní všechny pozice v části "Ovládání kvantových motorů", dojde ke kvantové události. Na konci kola si hráč lízne [kartu kvantové události](KartyUdalosti.md) a zahraje ji, a to i v případě, že si již líznul kartu kvantové události během tahu (tj. lodě byly odhaleny orbitální obranou).  
 
 **Dojde-li ke kvantové události:** Lízněte si kartu kvantové události a proveďte akci stanovenou na kartě. Odstraňte všechny akční karty z části "Ovládání kvantových motorů" a přesuňte je do odložených karet. Akční karty hráč neodstraňuje v případě, že dojde ke kvantové události v důsledku odhalení orbitální obranou.
 
@@ -263,6 +263,9 @@ Tunelový jev (též kvantové tunelování) je kvantový jev známý z kvantov�
 
 
 **Záhadná interakce na dálku**
+In quantum physics, entangled particles remain connected so that actions performed on one affect the other, even when separated by great distances. The phenomenon so riled Albert Einstein he called it "spooky action at a distance." 
+Some subatomic interactions give rise to new pairs of particles flying off in different directions. Each of these, the theory said, could not be individually described: query one and you learn something instantaneously about the other, even if it is in a galaxy far, far away. That looked to Einstein like information moving instantaneously — ie, faster than light, which his own special theory of relativity said was a universal no-no.
+he called it spukhafte Fernwirkung: a “spooky remote effect”.
 
 _Zvídavým hráčům doporučujeme tyto osoby a oblasti více prozkoumat a objevit další kouzelná zákoutí kvantové fyziky!_
 
