@@ -34,13 +34,13 @@ Hru můžete také zakoupit již hotovou v eshopu The Game Crafter.
 Přečtěte si [pravidla](pravidla) ke hře Entanglion. Online verze pravidel je nejaktuálnější, doplnění a vysvětlivky k tištěné verzi pravidel budou k dispozici ve složce [vysvětlivky](pravidla/Vysvetlivky.md).
 
 ## Využití Entanglionu ve výuce
-If you are an educator who would like to use Entanglion as part of a learning curriculum, please [reach out to us](mailto:entanglion@us.ibm.com). We would love to hear about your plans for Entanglion and we may be able to support your efforts.
+Pokud jste vyučující a máte zájem využít hru Entanglion jako součást výuky, tak nás prosím [kontaktujte](mailto:entanglion@us.ibm.com). Rádi si vaše plány s Entanglionem poslechneme a možná je budeme schopni i podpořit. 
 
-## Expanding Entanglion
-Entanglion is an open-source project developed by IBM Research to teach players about quantum computing. We welcome community contributions to modify and extend gameplay. If you would like to develop an expansion to Entanglion, please check out our [expansion guide](expansions).
+## Rozšíření Entanglionu
+Entanglion je open-source projekt vyvinutý v IBM Research s cílem seznámit hráče se základy kvantového počítače. Vítáme všechny, kteří chtějí přispět a rozšířit hru. Pokud chcete vyvinout vlastní rozšíření hry, přečtěte si náš [návod k rozšířením](expansions).
 
-## Citing Entanglion
-If you wish to cite Entanglion in academic work, please use the following citation.
+## Citace hry Entanglion
+Pokud potřebujete citovat Entanglion v rámci své akademické práce, prosím použijte níže uvedenou citaci. 
 
 > Justin D. Weisz, Maryam Ashoori, and Zahra Ashktorab. 2018. Entanglion: A Board Game for Teaching the Principles of Quantum Computing. In Proceedings of the 2018 Annual Symposium on Computer-Human Interaction in Play (CHI PLAY '18). ACM, New York, NY, USA, 523-534. DOI: https://doi.org/10.1145/3242671.3242696
 
@@ -72,5 +72,5 @@ Entanglion byl vyvinut v IBM Research v New Yorku.
 **Kvantová věda**: [Jay M. Gambetta](https://github.com/jaygambetta), [Jerry M. Chow](https://github.com/jerrymchow), and [Lev S. Bishop](https://github.com/levbishop)<br />
 **Překlad**: [Jan Louda](https://twitter.com/janlouda), Tomáš Feige, Magdalena Štachová<br />
 
-# License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+# Licence
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Tat práce je licencována pod <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
