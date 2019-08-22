@@ -16,7 +16,7 @@ Už léta vás fascinují pověsti o dávno zapomenuté kvantové technologii, k
 Pokud chcete tuto výjimečnou technologii získat, musíte svoji loď nepozorovaně navigovat po planetách Entaglionu a posbírat na nich jednotlivé součásti kvantového počítače. Dobrá zpráva je, že vám předchozí kapitán zanechal dost peněz na to, abyste svoji loď mohl vybavit kvantovými motory, bez kterých do Entaglionu nemůžete vstoupit. Špatná zpráva je, že bez kvantového počítače jsou tyto motory trochu... nepředvídatelné.
 
 
-Chcete vědět více? Přečtěte si celý příběh Entanglionu - [Záhadný osud Kvantiků](game/Pribeh.md).
+Chcete vědět více? Přečtěte si celý příběh Entanglionu - [Záhadný osud Kvantiků](pravidla/Pribeh.md).
 
 ## Jak získat Entanglion
 Entanglion je open-source projekt, který vám umožňuje si vyrobit vlastní hru z volně dostupných zdrojových souborů.
