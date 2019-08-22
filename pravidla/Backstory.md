@@ -1,5 +1,27 @@
 # Záhadný osud Kvantiků
 
+Před tisíci lety existovala civilizace Kvantiků, která vládla vesmíru.
+
+V srdci kvantické kultury byla hluboká úcta k vědě a technologii. Ve věku, kdy se většina dětí účí zavazovat si tkaničky již děti Kvantiků studovaly algebru, astronomii a fyziku, na střední škole se většina Kvantických dětí ponořila do studia výpočetní techniky, zákonů termodynamiky a celé řady dalších složitých vedních oborů. 
+
+Náturou byly Kvantikové pacifisté. Za nevyšší a nejosvícenější konflikt považovali akademickou debatu. Nebyli dobyvatelé, nebažili po moci, i když vyspělost jejich vojenské technologie (určené čistě pro obrannné účely) řádově překonávala technologii ostatních civilizací.
+
+Nicméně rychlost jejich technologického pokroku, v kombinaci s nedostatkem zdrojů na jejich domovské planetě, je donutila hledat nové světy. Za jednu generaci zúrodnili a kolonizovali tucty nových planet. Za další generaci již vytvořili nejvyspělejší galaktickou alianci v historii, zahrnující desítky tisíc světů.
+
+Stejně rychle jak se objevili, začali se najednou Knavtikové ztrácet. Na začátku šlo o jednotlivce - tu a tam zmizel nějaký vědec nebo inženýr. Ale brzy se objevily i celé opuštěné planety. Beze stop začaly mizet Kvantikové po tisících - jakoby je pohltila nějaká paralelní dimenze, do té doby spící a čekající v zemi pod nimi. 
+
+S rostoucím počtem zmizelých Kvantiků se začaly šířit zvěsti o zvrácené technologii, o chytrém stroji, který se svým chováním vymkl kontrole i těch nejlepších vědců.
+
+I přes svoji inteligenci byli Kvantikové zranitelní, tak jako většina ostatních civilizací, a zhoubou jim bylo jejich poznání a ambice. Byli natolik chytří, že dokázali vyvinout technologie, které ostatní považovali za zázračné, ale zároveň byli zaslepení a žili v přesvědčení, že technologie, které vyvinuli nemohou nikdy překonat jejich vlastní inteligenci.
+
+Anebo si tato rizika uvědomovali a rozhodli se je jen ignorovat. Proč přemýšlet o potenciálním nebezpečí, když se místo toho můžete soustředit na veškeré bohatství a prosperitu, které technologie přináší? Jeden z chytrých Kvantiků, Qual Bellow, kdysi řekl: "Abychom zůstali žít ve své vlastní iluzi, jsme schopni investovat neuvěřitelné kvantum inteligence." Kvantičtí vědci tak vyvíjeli technologie pro technologie a doposud je žádná nezradila.
+
+Ať to bylo jakkoli, všechny legendy se shodují, že zmizení Kvantiků souviselo s vyvinutím extrémně pokročilého počítače využívajícího záhadných vlastností kvantové fyziky, vlastností, které zamotaly hlavy i nechytřejším Kvantikům v celém vesmíru.
+
+Pokud by byly příběhy pravdivé (dnes už tomu věří jen málokdo), pak tento kvantový počítač umožnil existenci objektů v dvou různých potenciálních stavech najednou - vytvořil skutečnou verzi Schrödingerovy kočky v krabici, jakkoli šílené se to zdá.
+
+
+
 Thousands of years ago, a people known as the Quantics dominated the known universe.
 
 At the heart of Quantic culture was a deep reverence for science and technology. At the age when most kids learned to tie their shoes, Quantic children studied algebra, astronomy and physics; by the time middle school rolled around, most Quantic children steeped themselves in the principles of computing, the laws of thermodynamics, and a whole host of other complex sciences.
