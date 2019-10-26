@@ -1,3 +1,5 @@
+- - - TRANSLATION IN PROGRESS :) - - - 
+
 # Záhadný osud Kvantiků
 
 Před tisíci lety existovala civilizace Kvantiků, která vládla vesmíru.
