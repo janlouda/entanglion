@@ -9,6 +9,8 @@ detection rate = riziko odhalení
 
 engines = motory (kvantově poháněné motory, které se ale bez kvantového počítače chovají nepředvídatelně)
 
+engine cards = akční karty
+
 entanglement = (kvantové) provázání
 
 Entanglion = Entanglion (nepřekládat)
