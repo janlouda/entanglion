@@ -36,29 +36,28 @@ Samozřejmě to všechno může  být jen snůška kvantových nesmyslů, hromad
 
 ## Povýšení
 
-"Today is a truly historic day, one that will be remembered for generations to come."
+"Dnešní den vstoupí do historie, budou si hopřipomínat následující ganerace."
+Na kapitána obyčejné dopravní flotily měl John Bell velký smysl pro dramatičnost.
 
-Despite being the captain of a simple cargo fleet, John Bell had always had a serious flair for the dramatic.
+"Po desetiletích u kormidla, statečný John S. Bell III, kondor kosmu a jestřáb Pátého Kvasaru, pověsí své řemeslo na hřebík." Mluví o sobě ve třetí osobě, jakoby četl pasáž z budoucí knihy o historii kapitánů dopravních flotil (která bude určitě trhákem).
 
-"After decades at the helm, the valiant John S. Bell the Third, condor of the cosmos and falcon of the Fifth Quasar, hangs up his captain’s gloves for good." He speaks of himself in the third person, as if reading a passage from some future text on the history of cargo ship captains (what a riveting book that would be).
+"Galaxie poznaly mnoho velkých kapitánů, ale jen málo z nich letělo..." Zatímco se Bell ponořil do dlouhého monologu opisujícím výraz "odkaz", ses v myšlenkách vrátil k setkání, které se událo jen před pár týdny.
 
-"The galaxies have seen many a great captain, but few have flown…" As Bell launches into a lengthy monologue on the meaning of the word "legacy," your mind wanders to a chance encounter you had a few weeks back.
+Zatímco jsi čekal na opravu a bloumal po Xenophonu 12, narazil jsi na stopaře, který tvrdil, že mluvil s živým Kvantikem na Centariu NULA. Zprvu jsi ho měl za nějakého mastičkáře, ale jak začal mluvil, něco tě na něm zaujalo. Zdálo se, že dokonale zná Kvantiky a jejich kulturu, a dokonce toho hodně věděl i o takzvaném kvantovém počítači, který zpečetil jejich osud. Mohla bo to celé být pravda?
 
-While waiting for repairs on Xenophon 12, you’d run into a hitchhiker who claimed to have spoken with a real-life Quantic during a visit to Centarious ZERO. You’d initially written him off as a quack, but the more he spoke, the more intrigued you’d become. He seemed to possess intimate knowledge about the Quantic people and culture, and even spoke at length about the so-called quantum computer that was said to have sealed their fate. Could it really all be true?
+Procitl si z myšlenek zoátky do současnosti - Bell se konečně dostával k pasáži, na kterou jsi čekal: "...ale dnešek není o tom, že něco končí, ale o tom, že nové začíná. Byl jsi můj věrný náhradník po téměř deset let a je načase, aby ses chopil otěží."
 
-You snap back to the present – Bell has finally gotten to the part you’ve been waiting for: "But today is not about endings, it’s about beginnings. You’ve been my loyal understudy for nearly ten years now, and it’s time for you to take the reins."
+Navzdory komické povaze celého obřadu si cítil, jak tě zaplavila vlna hrdosti, že jsi byl jmenován kapitánem.
 
-Despite the comic nature of the ceremony, you can’t help but feel a wave of pride at being named captain.
+"Ale než Ti oficiálně předám kormidlo, mám pro tebe jednu radu: drž se toho co víš. Jsi jeden z nejbystřejších a nejzkušenějších navigátorů, které jsem kdy potkal, ale také jeden z nejzvědavějších. To je vlastnost, která dobře slouží mladému poručíkovi dopravní lodi, ale jako kapitán musíš mít koncentraci a disciplínu. Pamatuj si," řekl Bell a spiklenecky se na tebe podíval, "kdo se moc ptá, moc se dozví a Kvantikové se ptali až příliš."
 
-"But before I make it official, I have one final word of advice: stick to what you know. You’re one of the smartest, most skilled navigators I’ve ever met, but you’re also one of the most inquisitive. That might be a good trait for a young cargo hand, but being a captain requires focus and discipline. Always remember," Bell says with a twinkle in his eye, "curiosity didn’t just kill the cat, it killed the Quantics as well."
+Snažíš se zamaskovat svoje překvapení z poslední kapitánovy poznámky nonšalantním úsměvem.  "Nebojte se, těch báchorek jsem se už dávno vzdal."
 
-You try to hide your surprise at the comment, electing to laugh it off in what you hope is casual nonchalance. "Don’t worry captain, I gave up on those old fairy tales long ago."
+V mysli ale ve skutečnosti už plánuješ cestu na Centarius NULA...
 
-In your head, however, you’re already plotting a course to Centarious ZERO…
+## Rádoby mise
 
-## Quazi's Mission
-
-"What was I thinking coming here…"
+"Proč jsem sem chodil…"
 
 After three lunar lagers (and twice as many fruitless conversations), it’s hard not to feel like you wasted your time traveling to Centarious.
 
