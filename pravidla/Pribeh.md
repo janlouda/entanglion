@@ -22,41 +22,19 @@ Ať to bylo jakkoli, všechny legendy se shodují, že zmizení Kvantiků souvis
 
 Pokud by byly příběhy pravdivé (dnes už tomu věří jen málokdo), pak tento kvantový počítač umožnil existenci objektů v dvou různých potenciálních stavech najednou - vytvořil skutečnou verzi Schrödingerovy kočky v krabici, jakkoli šílené se to zdá.
 
+Konspirační teorie tvrdily, že za zmizením stojí tento počítač a že vědci z řad Kvantiků začali uvádět své vlastní lidi do stavu, kdy nebyli "ani tady, ani tam, ale tady i tam zároveň", do stavu, kterému říkali superpozice, i když nevěděli, jak je dostat zase zpět. 
 
+Někteří lidé věří, že celá populace Kvantiků byla vržena do superpozice, jako do očistce a marně čeká na kolaps této superpozice, aby se mohla vrátit zpět do reality. Jiní věří, že v superpozici zůstali Kvantikové jen zlomek sekundy a při návratu přeskočili do paralelního vesmíru. A další zase věří, že byli rozloženi subatomickými silami pohánějícími kvantový počítač.
 
-Thousands of years ago, a people known as the Quantics dominated the known universe.
+Ale osud počítače samotného - pokud tedy existoval - je stejně mlhavý jako osud jeho stvořitelů.
 
-At the heart of Quantic culture was a deep reverence for science and technology. At the age when most kids learned to tie their shoes, Quantic children studied algebra, astronomy and physics; by the time middle school rolled around, most Quantic children steeped themselves in the principles of computing, the laws of thermodynamics, and a whole host of other complex sciences.
+Nikdy ho neviděl nikdo mimo Kvantiků, kterých se dnes už nikdo nezeptá, protože všichni zmizeli. Většina těch, kteří věří v existenci počítače má za to, že zničen posledními Kvantiky nebo skončil u vesmírných sběračů, kteří jej prodali jako šrot.
 
-The Quantics were pacifists by nature. They viewed academic debate as the highest, most enlightened form of conflict. They were not conquerers and never actively sought power, though their military technologies (all designed for defensive purposes) far outclassed those of any other race.
+Ale existuje ještě jedna, méně rozšířená teorie, podle které malá skupina Kvantických fanatiků rozebrala počítač a rozmístila ho po celé galaxii ve víře, že jednoho dne se podaří sestavit ho zpět někomu, kdo ho využije moudře a odpovědně.
 
-However, the sheer velocity of their technological advancement, combined with an increasing scarcity of resources on their home planet, propelled them rapidly outwards into neighboring worlds. Within a generation, they had terraformed and colonized dozens of planets. Within another generation, they had created the most advanced galactic alliance in recorded history, spanning tens of thousands of worlds.
+Samozřejmě to všechno může  být jen snůška kvantových nesmyslů, hromada báchorek, kterými si lidé krátí čas na dlouhých cestách. Ale co když je to opravdu reálné? Je jen jeden způsob, jak to zjistit...
 
-But just as quickly as they came, the Quantics began to disappear. It started with individuals – a scientist here, an engineer there. But soon, whole planets began to go dark. Thousands of Quantics would vanish at once without a trace, as if swallowed up by some parallel dimension that had been lying dormant in the earth beneath them.
-
-As more and more Quantics disappeared, rumors began to swirl about a rogue technology, a highly-advanced machine that had started behaving in ways that even the best scientists couldn't control.
-
-As intelligent as they were, the Quantics were, like most races, vulnerable to their own knowledge and ambition. They were smart enough to design technologies that most would consider pure magic, but also smart enough to convince themselves that the technologies they developed would never outpace their own prodigious intelligence.
-
-Or maybe they were completely aware of the risks and simply chose to ignore them. Why think about potential dangers when you can instead focus on all the wealth and prosperity your advancements are delivering? As wise Quantic author Qual Bellow once said, "A great deal of intelligence can be invested in ignorance when the need for illusion is deep." Quantic scientists tended to pursue technology for technology's sake, and it hadn't failed them yet.
-
-Whatever the case, the legends all seem to agree that the disappearance of the Quantics was tied directly to the development of an extremely advanced computer, one that leveraged the mysterious properties of quantum physics, properties that even the smartest Quantics had trouble wrapping their heads around.
-
-If you believed the stories (few people did these days), this quantum computer allowed objects to exist in two different potential states at once – a real-life version of Schrödinger’s box, as crazy as that sounds.
-
-Conspiracy theorists tended to point to this machine as the root cause of the disappearances, the idea being that Quantic scientists had somehow started putting their own people into this "neither here nor there but also both here and there" state (superposition, they called it), without actually knowing how to bring them back.
-
-Some people believe that the whole Quantic population is stuck in a purgatory of superposition somewhere, waiting in vain to be collapsed back into reality. Others believe that they only existed in superposition for a fraction of a second, but were shunted over to a parallel universe when they returned to the physical world. Still others believe that they were simply vaporized by the subatomic forces that powered the quantum computer.
-
-But the ultimate fate of the machine itself – assuming, of course, that it was once real – is just as nebulous as the fate of its creators.
-
-It was never actually seen by anyone outside of the Quantic race, and, of course, there are no Quantics around today to tell the tale. Most people who believe in the machine believe that it was either destroyed by the last of the Quantics or gutted by galactic salvagers who sold the meticulously-tuned instruments as scrap metal.
-
-But there’s one other, less prevalent theory out there: that a small group of fanatical Quantics dismantled the machine and scattered it across the cosmos in hopes that it would one day be reassembled by someone wise enough to use it responsibly.
-
-Of course, it could all be a load of quantum nonsense, just a bunch of stories that people tell each other while traveling on long haul missions. But then again, it could also be very, very real. There’s only one way to find out…
-
-## The Promotion
+## Povýšení
 
 "Today is a truly historic day, one that will be remembered for generations to come."
 
