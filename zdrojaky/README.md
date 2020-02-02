@@ -1,4 +1,13 @@
-# Entanglion Printing & Assembly Guide
+# Entanglion DIY Guide
+Sem během následujících týdnů dodáme postup a fotky naší DIY verze hry.
+
+
+
+
+
+
+Originální verze:
+
 Ready to assemble your own copy of Entanglion? Let's get started!
 
 > Note: It can take a few hours to cut out and assemble the paper game pieces, and longer if you are 3D printing any game components. Please be patient as you assemble your game, we promise it's worth it! 😇
